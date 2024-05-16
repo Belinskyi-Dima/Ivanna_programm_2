@@ -1,0 +1,3362 @@
+[
+  {
+    "id": "90417f68-0b26-4d1a-9011-fadda77df59f",
+    "category": "Алкогольні напої",
+    "productName": "Бренді",
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 1,
+    "kcal": 225
+  },
+  {
+    "id": "1d2f4d24-8979-4b94-8c0e-32e44a2f66c0",
+    "category": "Алкогольні напої",
+    "productName": "Вермут",
+    "proteins": 0,
+    "fats": 0,
+    "carbs": "15,9",
+    "kcal": 155
+  },
+  {
+    "id": "4bbe87ee-ecd3-48c0-92ca-f8046211ccb6",
+    "category": "Алкогольні напої",
+    "productName": "Вино жінці",
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 0,
+    "kcal": 66
+  },
+  {
+    "id": "dff1d8e7-a5e9-4e63-a34a-bd2ea3839e8b",
+    "category": "Алкогольні напої",
+    "productName": "Вино напівсухе",
+    "proteins": "0,3",
+    "fats": 0,
+    "carbs": "2,5",
+    "kcal": 78
+  },
+  {
+    "id": "7a151d10-1e62-4580-b3cd-1a95d89e7ec4",
+    "category": "Алкогольні напої",
+    "productName": "Вино десертні",
+    "proteins": "0,5",
+    "fats": 0,
+    "carbs": 20,
+    "kcal": 175
+  },
+  {
+    "id": "9878803d-39b7-4b92-b628-96ef61a9b666",
+    "category": "Алкогольні напої",
+    "productName": "Вино полусолодке",
+    "proteins": "0,2",
+    "fats": 0,
+    "carbs": 5,
+    "kcal": 88
+  },
+  {
+    "id": "3ec6c26c-2858-4735-ac15-2b61afcf73ca",
+    "category": "Алкогольні напої",
+    "productName": "Вино столове",
+    "proteins": "0,2",
+    "fats": 0,
+    "carbs": "0,2",
+    "kcal": 67
+  },
+  {
+    "id": "b3c0df4f-779f-44d9-9eb0-40421bec1671",
+    "category": "Алкогольні напої",
+    "productName": "Віскі",
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 0,
+    "kcal": 222
+  },
+  {
+    "id": "53c07a3e-2193-483b-8262-6d17149a2bef",
+    "category": "Алкогольні напої",
+    "productName": "Горілка",
+    "proteins": 0,
+    "fats": 0,
+    "carbs": "0,1",
+    "kcal": 234
+  },
+  {
+    "id": "c934c140-5817-488b-b971-edd5758e4971",
+    "category": "Алкогольні напої",
+    "productName": "Джин",
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 0,
+    "kcal": 223
+  },
+  {
+    "id": "8425f48e-4794-4e39-a5c1-cb6af0f81d78",
+    "category": "Алкогольні напої",
+    "productName": "Коньяк",
+    "proteins": 0,
+    "fats": 0,
+    "carbs": "0,1",
+    "kcal": 240
+  },
+  {
+    "id": "ef03ca41-e64d-40ea-bed4-668cc6c78f36",
+    "category": "Алкогольні напої",
+    "productName": "Лікер",
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 53,
+    "kcal": 344
+  },
+  {
+    "id": "e64251fc-c2ef-4f63-afd9-7ebb3a7e402e",
+    "category": "Алкогольні напої",
+    "productName": "Пиво 3,0%",
+    "proteins": "0,6",
+    "fats": 0,
+    "carbs": "3,5",
+    "kcal": 37
+  },
+  {
+    "id": "09dc582e-379d-45bd-afb4-b7b47afc729c",
+    "category": "Алкогольні напої",
+    "productName": "Пиво 4,5%",
+    "proteins": "0,8",
+    "fats": 0,
+    "carbs": "4,5",
+    "kcal": 45
+  },
+  {
+    "id": "79854e36-5e8a-488c-be01-c82d7c021fbe",
+    "category": "Алкогольні напої",
+    "productName": "Пиво темне",
+    "proteins": "0,2",
+    "fats": 0,
+    "carbs": 4,
+    "kcal": 39
+  },
+  {
+    "id": "833962df-e3eb-4d9e-9438-ad2f165a5008",
+    "category": "Алкогольні напої",
+    "productName": "Портвейн",
+    "proteins": 0,
+    "fats": 0,
+    "carbs": "13,8",
+    "kcal": 167
+  },
+  {
+    "id": "ecb1939c-6f4a-40bd-9149-10888edbff67",
+    "category": "Алкогольні напої",
+    "productName": "Ром",
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 0,
+    "kcal": 217
+  },
+  {
+    "id": "22b64c2f-34f8-4188-8f89-bbcc9af30cd7",
+    "category": "Алкогольні напої",
+    "productName": "Шампанське",
+    "proteins": "0,3",
+    "fats": 0,
+    "carbs": "5,2",
+    "kcal": 88
+  },
+  {
+    "id": "36feee78-af5b-49f7-9202-ce1b26e0dc2c",
+    "category": "Безалкогольні напої",
+    "productName": "Абрикосовий сік",
+    "proteins": "0,9",
+    "fats": "0,2",
+    "carbs": "9,2",
+    "kcal": 39
+  },
+  {
+    "id": "01c9fa6c-ac69-4dad-9ed4-70d94b8134d1",
+    "category": "Безалкогольні напої",
+    "productName": "Ананасовий сік",
+    "proteins": "0,2",
+    "fats": "0,2",
+    "carbs": "11,4",
+    "kcal": 48
+  },
+  {
+    "id": "9163abd3-07db-4ad4-a19e-b41f29accbeb",
+    "category": "Безалкогольні напої",
+    "productName": "Апельсиновий сік",
+    "proteins": "0,9",
+    "fats": "0,1",
+    "carbs": "8,4",
+    "kcal": 36
+  },
+  {
+    "id": "0fef1732-9fe9-41c2-9389-336aa683c671",
+    "category": "Безалкогольні напої",
+    "productName": "Виноградний сік",
+    "proteins": "0,3",
+    "fats": 0,
+    "carbs": "14,5",
+    "kcal": 56
+  },
+  {
+    "id": "7974adc9-1e38-41c4-a1f7-cc22616398f5",
+    "category": "Безалкогольні напої",
+    "productName": "Вишневий сік",
+    "proteins": "0,5",
+    "fats": 0,
+    "carbs": "10,6",
+    "kcal": 49
+  },
+  {
+    "id": "222501a0-466b-4fb8-a3ee-76928e49663a",
+    "category": "Безалкогольні напої",
+    "productName": "Гранатовий сік",
+    "proteins": "0,2",
+    "fats": 0,
+    "carbs": 14,
+    "kcal": 58
+  },
+  {
+    "id": "43e610ac-2207-4fb7-9c24-e219870f27f8",
+    "category": "Безалкогольні напої",
+    "productName": "Какао на молоці",
+    "proteins": 24,
+    "fats": 17,
+    "carbs": "33,1",
+    "kcal": 377
+  },
+  {
+    "id": "05ffe03a-70cd-417b-a355-e269b6c6fb3f",
+    "category": "Безалкогольні напої",
+    "productName": "Квас хлібний",
+    "proteins": "0,2",
+    "fats": 0,
+    "carbs": 5,
+    "kcal": 26
+  },
+  {
+    "id": "97015b3e-f55b-4530-8e89-b194aee9708c",
+    "category": "Безалкогольні напої",
+    "productName": "Кола",
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 10,
+    "kcal": 40
+  },
+  {
+    "id": "17524e51-964e-4120-9108-c0d431267a2d",
+    "category": "Хліб і хлібобулочні вироби",
+    "productName": "Лаваш",
+    "proteins": "9,1",
+    "fats": "1,2",
+    "carbs": "55,7",
+    "kcal": "275"
+  },
+  {
+    "id": "4e875c1c-0378-4f0e-bd01-d1b0ffe72312",
+    "category": "Сухофрукти ",
+    "productName": "Ізюм світлий",
+    "proteins": "1,8",
+    "fats": 0,
+    "carbs": "71,2",
+    "kcal": 262
+  },
+  {
+    "id": "7e0570d2-bca2-4ade-aa9e-31a242e3debe",
+    "category": "Сухофрукти ",
+    "productName": "Ізюм темний",
+    "proteins": "2",
+    "fats": "0,18",
+    "carbs": "62",
+    "kcal": 250
+  },
+  {
+    "id": "f2890120-b4de-4218-a58f-d62bd12dfb4e",
+    "category": "Безалкогольні напої",
+    "productName": "Кави з молоком",
+    "proteins": "0,8",
+    "fats": 1,
+    "carbs": 11,
+    "kcal": 56
+  },
+  {
+    "id": "a4028d2f-30ff-454f-9101-bdf96bb43028",
+    "category": "Безалкогольні напої",
+    "productName": "Лімонад",
+    "proteins": 0,
+    "fats": 0,
+    "carbs": "6,1",
+    "kcal": 24
+  },
+  {
+    "id": "15dcab18-5d02-4e5f-9300-508395a2fc2c",
+    "category": "Безалкогольні напої",
+    "productName": "Лімонний сік",
+    "proteins": 1,
+    "fats": "0,1",
+    "carbs": "3,2",
+    "kcal": 18
+  },
+  {
+    "id": "ca8c10f9-cf72-4feb-a964-9e5abcdcfb0d",
+    "category": "Безалкогольні напої",
+    "productName": "Морквяний сік",
+    "proteins": 1,
+    "fats": "0,1",
+    "carbs": "6,5",
+    "kcal": 31
+  },
+  {
+    "id": "cae0fd08-3863-4035-a9c1-cef5b1c4d465",
+    "category": "Безалкогольні напої",
+    "productName": "Персиковий сік",
+    "proteins": "0,8",
+    "fats": "0,1",
+    "carbs": "9,1",
+    "kcal": 37
+  },
+  {
+    "id": "9ca019eb-e052-4aaf-be06-a3f4fdb37408",
+    "category": "Безалкогольні напої",
+    "productName": "Пиво безалкогольне",
+    "proteins": 0,
+    "fats": 0,
+    "carbs": "4,1",
+    "kcal": 22
+  },
+  {
+    "id": "4b4cecac-5ddc-4638-8de1-d7323fd84961",
+    "category": "Безалкогольні напої",
+    "productName": "Зелений чай",
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 0,
+    "kcal": 0
+  },
+  {
+    "id": "2269dce7-dfd5-40a3-b7d3-49855ab09157",
+    "category": "Безалкогольні напої",
+    "productName": "Чорний чай без цукру",
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 0,
+    "kcal": 0
+  },
+  {
+    "id": "1a5150ca-90bf-4e24-aaf0-9bfba9a3c4be",
+    "category": "Безалкогольні напої",
+    "productName": "Чорний чай з лимоном та цукром (2 ч. л.)",
+    "proteins": "0,8",
+    "fats": "0,7",
+    "carbs": "8,3",
+    "kcal": 41
+  },
+  {
+    "id": "8ad65270-4c44-44d4-b1da-d762919324a3",
+    "category": "Безалкогольні напої",
+    "productName": "Чорний чай зі згущеним молоком (2 ч. л.)",
+    "proteins": "2,4",
+    "fats": "2,9",
+    "carbs": "19,1",
+    "kcal": 112
+  },
+  {
+    "id": "07577ad0-5d3c-4dba-a905-a8fe4b207edb",
+    "category": "Безалкогольні напої",
+    "productName": "Єнергетичний напій",
+    "proteins": 0,
+    "fats": 0,
+    "carbs": "11,4",
+    "kcal": 47
+  },
+  {
+    "id": "aec87134-d0fa-44a4-8403-f1e4c32a865f",
+    "category": "Безалкогольні напої",
+    "productName": "Яблучний сік",
+    "proteins": "0,5",
+    "fats": "0,4",
+    "carbs": "9,7",
+    "kcal": 42
+  },
+  {
+    "id": "44b4d731-b9af-4aa8-b32e-94ab8af59c4e",
+    "category": "Каші",
+    "productName": "Гречана каша",
+    "proteins": "4,5",
+    "fats": "1,6",
+    "carbs": "27,4",
+    "kcal": 137
+  },
+  {
+    "id": "54dab6f1-18e5-4cf1-8059-30d5b2a88ef7",
+    "category": "Каші",
+    "productName": "Кукурудзяні пластівці",
+    "proteins": "6,5",
+    "fats": "2,9",
+    "carbs": "83,8",
+    "kcal": 372
+  },
+  {
+    "id": "82aaf14a-2768-4324-9236-8e81f97b67db",
+    "category": "Каші",
+    "productName": "Манна каша",
+    "proteins": "2,5",
+    "fats": "0,3",
+    "carbs": "16,4",
+    "kcal": 77
+  },
+  {
+    "id": "3c0a6f4f-9e2b-4c2e-8555-3d8ce5a1b09b",
+    "category": "Каші",
+    "productName": "Вівсяна каша",
+    "proteins": "3,2",
+    "fats": "1,8",
+    "carbs": "15,4",
+    "kcal": 93
+  },
+  {
+    "id": "034c45ac-a3e4-417e-ae95-c586e24b87ed",
+    "category": "Каші",
+    "productName": "Вівсяні пластівці",
+    "proteins": "11,9",
+    "fats": "7,5",
+    "carbs": "69,1",
+    "kcal": 358
+  },
+  {
+    "id": "e73ecdb6-d9fe-446f-8c7e-0c758f9e7f3b",
+    "category": "Каші",
+    "productName": "Перлова каша",
+    "proteins": "3,2",
+    "fats": "0,5",
+    "carbs": "22,7",
+    "kcal": 102
+  },
+  {
+    "id": "6bd0d842-7d12-44ac-b84d-7d722cac67f0",
+    "category": "Каші",
+    "productName": "Пшоняна каша",
+    "proteins": 3,
+    "fats": "0,8",
+    "carbs": "17,2",
+    "kcal": 92
+  },
+  {
+    "id": "b42152e2-8b80-439a-becc-e8c0618a0432",
+    "category": "Каші",
+    "productName": "Рисова каша",
+    "proteins": "1,5",
+    "fats": "0,2",
+    "carbs": "17,3",
+    "kcal": 79
+  },
+  {
+    "id": "8b87cc45-a4bc-4ffd-9c9f-a8c89444958d",
+    "category": "Каші",
+    "productName": "Рис нешліфований",
+    "proteins": "7,2",
+    "fats": "2,6",
+    "carbs": "74,3",
+    "kcal": 332
+  },
+  {
+    "id": "a632e559-2bc3-4eb5-9fd5-4be9008e402b",
+    "category": "Каші",
+    "productName": "Ячна каша",
+    "proteins": "1,4",
+    "fats": "0,3",
+    "carbs": "18,7",
+    "kcal": 84
+  },
+  {
+    "id": "0e0c5300-8b83-4fa7-9390-f0ad6a82f27a",
+    "category": "Каші",
+    "productName": "Ячні пластівці",
+    "proteins": "9,1",
+    "fats": "3,2",
+    "carbs": "79,7",
+    "kcal": 345
+  },
+  {
+    "id": "512370b0-13bf-4859-9990-aa795c7b99d8",
+    "category": "Гриби",
+    "productName": "Білі свіжі",
+    "proteins": "3,3",
+    "fats": "1,5",
+    "carbs": "2,4",
+    "kcal": 32
+  },
+  {
+    "id": "4f0a1a40-1a67-4348-9f84-432029aba019",
+    "category": "Гриби",
+    "productName": "Білі сушені",
+    "proteins": "23,8",
+    "fats": "6,8",
+    "carbs": "30,2",
+    "kcal": 277
+  },
+  {
+    "id": "848ebe02-d62f-426d-bcf3-039597b6d164",
+    "category": "Гриби",
+    "productName": "Вішанки свіжі",
+    "proteins": "2,5",
+    "fats": "0,5",
+    "carbs": "6,2",
+    "kcal": 34
+  },
+  {
+    "id": "e78dff4c-0a6d-45aa-bb21-f3a6334cce59",
+    "category": "Гриби",
+    "productName": "Лисички свіжі",
+    "proteins": "1,5",
+    "fats": 1,
+    "carbs": "2,4",
+    "kcal": 22
+  },
+  {
+    "id": "54707120-2d71-42e4-9f2d-43a959b543e3",
+    "category": "Гриби",
+    "productName": "Лисички сушені",
+    "proteins": 22,
+    "fats": "7,2",
+    "carbs": "25,4",
+    "kcal": 268
+  },
+  {
+    "id": "11de0a98-2124-4291-87b1-4eecff14e1f4",
+    "category": "Гриби",
+    "productName": "Маслюки свіжі",
+    "proteins": "2,5",
+    "fats": "0,7",
+    "carbs": "1,5",
+    "kcal": 12
+  },
+  {
+    "id": "836e46a5-aa37-4d78-b879-18804ef8e03a",
+    "category": "Гриби",
+    "productName": "Опеньки свіжі",
+    "proteins": "2,4",
+    "fats": 1,
+    "carbs": "2,5",
+    "kcal": 25
+  },
+  {
+    "id": "eae126ec-e12b-4d16-856a-a7f3a2b112b8",
+    "category": "Гриби",
+    "productName": "Підберезники свіжі",
+    "proteins": "2,1",
+    "fats": "1,2",
+    "carbs": "3,4",
+    "kcal": 30
+  },
+  {
+    "id": "ae10793d-fd9e-494c-bf9c-7080743860aa",
+    "category": "Гриби",
+    "productName": "Підберезники сушені",
+    "proteins": "23,3",
+    "fats": "9,5",
+    "carbs": "14,4",
+    "kcal": 231
+  },
+  {
+    "id": "325a0b71-480c-4d10-8e5c-9808754c759b",
+    "category": "Гриби",
+    "productName": "Підосиновики свіжі",
+    "proteins": "3,3",
+    "fats": "0,4",
+    "carbs": "3,5",
+    "kcal": 31
+  },
+  {
+    "id": "2870e76a-8650-4c81-8770-e28a8dd750bd",
+    "category": "Гриби",
+    "productName": "Підосиновики сушені",
+    "proteins": "35,2",
+    "fats": "5,4",
+    "carbs": 33,
+    "kcal": 325
+  },
+  {
+    "id": "c99f9291-927f-493f-a620-e5af409def0b",
+    "category": "Гриби",
+    "productName": "Рижики свіжі",
+    "proteins": "1,9",
+    "fats": "0,7",
+    "carbs": "2,3",
+    "kcal": 16
+  },
+  {
+    "id": "ef80846f-691e-4bf6-8a5e-d87f7482bd2d",
+    "category": "Гриби",
+    "productName": "Сироїжки свіжі",
+    "proteins": "1,6",
+    "fats": "0,8",
+    "carbs": "1,7",
+    "kcal": 15
+  },
+  {
+    "id": "a0c46373-92f4-41fe-9be3-e35a7b8e2ec8",
+    "category": "Гриби",
+    "productName": "Печериці свіжі",
+    "proteins": "4,3",
+    "fats": "0,9",
+    "carbs": "1,4",
+    "kcal": 29
+  },
+  {
+    "id": "2904e0e8-0995-4415-b507-ec345e74f325",
+    "category": "Ікра",
+    "productName": "Ікра кети зерниста",
+    "proteins": "31,6",
+    "fats": "13,7",
+    "carbs": 0,
+    "kcal": 250
+  },
+  {
+    "id": "415c8e9a-5d5d-439c-ba20-4e06f949de74",
+    "category": "Ікра",
+    "productName": "Ікра ляща",
+    "proteins": "24,6",
+    "fats": "4,9",
+    "carbs": 0,
+    "kcal": 144
+  },
+  {
+    "id": "8f981f68-b4f0-4ef0-8497-f2ed578ee17f",
+    "category": "Ікра",
+    "productName": "Ікра мінтая",
+    "proteins": "28,3",
+    "fats": "1,8",
+    "carbs": 0,
+    "kcal": 127
+  },
+  {
+    "id": "454266e5-11ab-4014-838f-ef4463a71e14",
+    "category": "Ікра",
+    "productName": "Ікра осетрова зерниста",
+    "proteins": "28,3",
+    "fats": "9,6",
+    "carbs": 0,
+    "kcal": 201
+  },
+  {
+    "id": "b3ecccc9-6cb8-4508-8850-7cc9bdfadb25",
+    "category": "Ікра",
+    "productName": "Ікра осетрова пробійна",
+    "proteins": "36,3",
+    "fats": "10,1",
+    "carbs": 0,
+    "kcal": 235
+  },
+  {
+    "id": "e7b41502-0cfb-4a0e-bb2b-f83444e1ef15",
+    "category": "Масло, маргарин, жири",
+    "productName": "Жир курячий",
+    "proteins": 0,
+    "fats": "99,7",
+    "carbs": 0,
+    "kcal": 896
+  },
+  {
+    "id": "ac76ac0a-d6a0-4047-8647-2e97701bedc2",
+    "category": "Масло, маргарин, жири",
+    "productName": "Жир топлений свиний",
+    "proteins": 0,
+    "fats": "99,5",
+    "carbs": 0,
+    "kcal": 882
+  },
+  {
+    "id": "7f3e99d1-212f-4c72-bf3d-0018925ba473",
+    "category": "Масло, маргарин, жири",
+    "productName": "Маргарин вершковий",
+    "proteins": "0,5",
+    "fats": "82,3",
+    "carbs": 0,
+    "kcal": 746
+  },
+  {
+    "id": "03d8ef9a-1912-4c76-b1e2-0d35073680c7",
+    "category": "Масло, маргарин, жири",
+    "productName": "Маргарин столовий молочний",
+    "proteins": "0,5",
+    "fats": 82,
+    "carbs": "0,9",
+    "kcal": 744
+  },
+  {
+    "id": "c3b29e06-d14c-4e45-9ede-a2a05ac996c3",
+    "category": "Масло, маргарин, жири",
+    "productName": "Майонез 67%",
+    "proteins": "3,3",
+    "fats": 67,
+    "carbs": "2,4",
+    "kcal": 624
+  },
+  {
+    "id": "07ff7107-93c1-445d-aca1-552700bc30a0",
+    "category": "Масло, маргарин, жири",
+    "productName": "Олія лляна",
+    "proteins": 0,
+    "fats": "99,8",
+    "carbs": 0,
+    "kcal": 898
+  },
+  {
+    "id": "620f30b2-a035-4697-83bb-655c45def08e",
+    "category": "Масло, маргарин, жири",
+    "productName": "Олія оливкова",
+    "proteins": 0,
+    "fats": "99,8",
+    "carbs": 0,
+    "kcal": 898
+  },
+  {
+    "id": "af0ea2db-2f0f-41e3-8992-32576d832623",
+    "category": "Масло, маргарин, жири",
+    "productName": "Олія соняшникова",
+    "proteins": 0,
+    "fats": "99,9",
+    "carbs": 0,
+    "kcal": 899
+  },
+  {
+    "id": "5699d9e5-48fa-4abf-bb5f-c6386aab6845",
+    "category": "Масло, маргарин, жири",
+    "productName": "масло кокосове",
+    "proteins": 0,
+    "fats": "99,9",
+    "carbs": 0,
+    "kcal": 813
+  },
+  {
+    "id": "c8d7d381-4164-4a13-a858-3a78c482e700",
+    "category": "Масло, маргарин, жири",
+    "productName": "Масло вершкове 82,5%",
+    "proteins": "0,5",
+    "fats": "82,5",
+    "carbs": 1,
+    "kcal": 747
+  },
+  {
+    "id": "f3695e80-37bd-4db5-9395-5bfd43a01f2f",
+    "category": "Масло, маргарин, жири",
+    "productName": "Масло топлене",
+    "proteins": "0,4",
+    "fats": "98,1",
+    "carbs": "0,5",
+    "kcal": 885
+  },
+  {
+    "id": "41c3ff8d-7533-4e5b-9488-6a805521017a",
+    "category": "Молочні продукти",
+    "productName": "сир м’який",
+    "proteins": "5,4",
+    "fats": 21,
+    "carbs": "4,3",
+    "kcal": 225
+  },
+  {
+    "id": "a0c1b02e-7e31-4d53-8d9e-f71ea8124c11",
+    "category": "Молочні продукти",
+    "productName": "сир м’який Сулугуні",
+    "proteins": "20,5",
+    "fats": 22,
+    "carbs": "0,4",
+    "kcal": 282
+  },
+  {
+    "id": "8deafbca-3aad-4672-b293-d17794e79fab",
+    "category": "Молочні продукти",
+    "productName": "сир м’який Бринза",
+    "proteins": "8,4",
+    "fats": "21,5",
+    "carbs": "2,9",
+    "kcal": 239
+  },
+  {
+    "id": "0318c4ef-1e6b-4b4a-8a04-d1f3cc571f5e",
+    "category": "Молочні продукти",
+    "productName": "сир м’який Philadelphia",
+    "proteins": "5,4",
+    "fats": "21",
+    "carbs": "4,3",
+    "kcal": 225
+  },
+  {
+    "id": "efb7e356-1a2c-40c3-8176-66eaee465f31",
+    "category": "Молочні продукти",
+    "productName": "сир твердий",
+    "proteins": "23,6",
+    "fats": "29,5",
+    "carbs": "2,2",
+    "kcal": 369
+  },
+  {
+    "id": "84441513-4f8c-4f2b-8beb-e70dbde6364e",
+    "category": "Молочні продукти",
+    "productName": "Йогурт 1.5%",
+    "proteins": "4,3",
+    "fats": "1,5",
+    "carbs": "8,4",
+    "kcal": 65
+  },
+  {
+    "id": "8d3f24a5-5787-4aed-843c-4f5fdd133a8d",
+    "category": "Молочні продукти",
+    "productName": "Йогурт 3.2%",
+    "proteins": 5,
+    "fats": "3,2",
+    "carbs": "8,9",
+    "kcal": 87
+  },
+  {
+    "id": "76046dab-7eac-49a5-8567-67c6c7afcfe1",
+    "category": "Молочні продукти",
+    "productName": "Кефір 0%",
+    "proteins": "2,8",
+    "fats": 0,
+    "carbs": "3,8",
+    "kcal": 29
+  },
+  {
+    "id": "67747a94-d80a-46ed-b99a-e8631c44bd02",
+    "category": "Молочні продукти",
+    "productName": "Кефір 1%",
+    "proteins": "2,8",
+    "fats": 1,
+    "carbs": 4,
+    "kcal": 37
+  },
+  {
+    "id": "6b23a5aa-fb83-4671-b3c8-e578cd5eb7ea",
+    "category": "Молочні продукти",
+    "productName": "Кефір 2,5%",
+    "proteins": 3,
+    "fats": "2,5",
+    "carbs": 4,
+    "kcal": 51
+  },
+  {
+    "id": "31071367-6e7d-4dc7-a4c7-62c4441ada53",
+    "category": "Молочні продукти",
+    "productName": "Кефір 3,2%",
+    "proteins": "3,2",
+    "fats": "3,2",
+    "carbs": "4,1",
+    "kcal": 57
+  },
+  {
+    "id": "12130c31-6818-47e4-bbe4-4071567f1de8",
+    "category": "Молочні продукти",
+    "productName": "Молоко 0%",
+    "proteins": "2,8",
+    "fats": 0,
+    "carbs": "4,6",
+    "kcal": 34
+  },
+  {
+    "id": "517f4ef6-dd8c-4a28-95d6-597b8c7002a3",
+    "category": "Молочні продукти",
+    "productName": "Молоко 1%",
+    "proteins": "2,8",
+    "fats": 1,
+    "carbs": "4,6",
+    "kcal": 43
+  },
+  {
+    "id": "ca654bc5-b640-4a9e-8a03-b570ff3f1ec4",
+    "category": "Молочні продукти",
+    "productName": "Молоко 2,5%",
+    "proteins": "2,8",
+    "fats": "2,5",
+    "carbs": "4,6",
+    "kcal": 53
+  },
+  {
+    "id": "d17ed21c-0cb9-4734-be35-dd23b3623430",
+    "category": "Молочні продукти",
+    "productName": "Молоко 3,2%",
+    "proteins": "2,8",
+    "fats": "3,2",
+    "carbs": "4,6",
+    "kcal": 58
+  },
+  {
+    "id": "3c400e86-7218-48fb-a518-6400664c780f",
+    "category": "Молочні продукти",
+    "productName": "козяче Молоко сире",
+    "proteins": "3,1",
+    "fats": "4,2",
+    "carbs": "4,7",
+    "kcal": 71
+  },
+  {
+    "id": "0ce6a137-3d55-4978-9d74-a5289144fbdd",
+    "category": "Молочні продукти",
+    "productName": "Молоко коров’яче сире",
+    "proteins": "3,2",
+    "fats": "3,6",
+    "carbs": "4,7",
+    "kcal": 63
+  },
+  {
+    "id": "8ca6b392-9ad6-4992-b491-5af21bb3eb81",
+    "category": "Молочні продукти",
+    "productName": "Молоко знежирене",
+    "proteins": "2,1",
+    "fats": "0,1",
+    "carbs": "4,5",
+    "kcal": 30
+  },
+  {
+    "id": "7531446c-d431-41ec-8e79-7d2c5e22ea58",
+    "category": "Молочні продукти",
+    "productName": "Молоко сухе незбиране",
+    "proteins": "25,2",
+    "fats": 25,
+    "carbs": "39,6",
+    "kcal": 477
+  },
+  {
+    "id": "930385b1-1132-4170-a301-ebb2a093978b",
+    "category": "Молочні продукти",
+    "productName": "Молоко згущене",
+    "proteins": "7,3",
+    "fats": "7,7",
+    "carbs": "9,7",
+    "kcal": 139
+  },
+  {
+    "id": "33f26ee7-0bef-4166-9bdf-a81bc80d8d95",
+    "category": "Молочні продукти",
+    "productName": "Кисле молоко 3,2%",
+    "proteins": "2,9",
+    "fats": "3,2",
+    "carbs": 4,
+    "kcal": 57
+  },
+  {
+    "id": "ccf3a343-5742-4f42-89f3-eddc769240a4",
+    "category": "Молочні продукти",
+    "productName": "Ряжанка 2,5%",
+    "proteins": "2,9",
+    "fats": "2,5",
+    "carbs": "4,1",
+    "kcal": 53
+  },
+  {
+    "id": "78490da5-7ea8-4ebd-90a5-d9f420af4043",
+    "category": "Молочні продукти",
+    "productName": "Ряжанка 4,0%",
+    "proteins": "2,9",
+    "fats": 4,
+    "carbs": "4,1",
+    "kcal": 68
+  },
+  {
+    "id": "6497db8e-13d2-4169-982b-8b0499935661",
+    "category": "Молочні продукти",
+    "productName": "Вершки 10%",
+    "proteins": "2,8",
+    "fats": 10,
+    "carbs": "4,1",
+    "kcal": 121
+  },
+  {
+    "id": "a4e4d5b9-7f91-43ec-bf67-c25679acf43d",
+    "category": "Молочні продукти",
+    "productName": "Вершки 20%",
+    "proteins": "2,8",
+    "fats": 20,
+    "carbs": "3,9",
+    "kcal": 209
+  },
+  {
+    "id": "2b91dfeb-5d52-4b0d-8144-825f2301b879",
+    "category": "Молочні продукти",
+    "productName": "Сметана 10%",
+    "proteins": 3,
+    "fats": 10,
+    "carbs": "2,9",
+    "kcal": 118
+  },
+  {
+    "id": "03e84834-a6ea-4162-9b77-e59dfeb34a85",
+    "category": "Молочні продукти",
+    "productName": "Сметана 15%",
+    "proteins": 3,
+    "fats": 15,
+    "carbs": "2,9",
+    "kcal": 163
+  },
+  {
+    "id": "e2182de9-d678-4db2-b9b3-ac13371f52e6",
+    "category": "Молочні продукти",
+    "productName": "Сметана 20%",
+    "proteins": 3,
+    "fats": 20,
+    "carbs": "2,9",
+    "kcal": 208
+  },
+  {
+    "id": "32a18266-51b1-4fc5-b3f4-25ade4d00d15",
+    "category": "Молочні продукти",
+    "productName": "Сирки з сирної маси",
+    "proteins": "7,3",
+    "fats": 23,
+    "carbs": "27,6",
+    "kcal": 344
+  },
+  {
+    "id": "d6d67f14-9efa-4099-b8d2-57c3f66056aa",
+    "category": "Молочні продукти",
+    "productName": "Сир голландський",
+    "proteins": "26,4",
+    "fats": "26,5",
+    "carbs": 0,
+    "kcal": 352
+  },
+  {
+    "id": "825a0d3b-a0e1-4e99-a7c3-3a41db443c36",
+    "category": "Молочні продукти",
+    "productName": "Сир пошехонський",
+    "proteins": "26,4",
+    "fats": "26,3",
+    "carbs": 0,
+    "kcal": 348
+  },
+  {
+    "id": "1c43fea3-05fe-4e5a-b7fc-aec098996433",
+    "category": "Молочні продукти",
+    "productName": "Сир російський",
+    "proteins": "24,1",
+    "fats": "29,8",
+    "carbs": "0,4",
+    "kcal": 366
+  },
+  {
+    "id": "07adb641-73e7-476d-9327-ebf5b1e4da07",
+    "category": "Молочні продукти",
+    "productName": "Сир сулугуні",
+    "proteins": 20,
+    "fats": "24,2",
+    "carbs": 0,
+    "kcal": 293
+  },
+  {
+    "id": "0911d1ac-caa6-4f80-b443-8fd3ece21829",
+    "category": "Молочні продукти",
+    "productName": "Сир жирний",
+    "proteins": 14,
+    "fats": 18,
+    "carbs": "1,9",
+    "kcal": 236
+  },
+  {
+    "id": "66e841cc-479b-4c81-9c9d-ce8b215f1be6",
+    "category": "Молочні продукти",
+    "productName": "Сир нежирний",
+    "proteins": "18,2",
+    "fats": "0,6",
+    "carbs": "1,8",
+    "kcal": 89
+  },
+  {
+    "id": "e18242f1-7c77-48f6-8bd2-32de98c0befd",
+    "category": "Молочні продукти",
+    "productName": "Сир напівжирний",
+    "proteins": "16,5",
+    "fats": 9,
+    "carbs": "1,9",
+    "kcal": 156
+  },
+  {
+    "id": "b4dc0ea0-a483-466e-9ef3-3ea7d5271639",
+    "category": "Яйця",
+    "productName": "Омлет",
+    "proteins": "9,7",
+    "fats": "15,5",
+    "carbs": "1,7",
+    "kcal": 181
+  },
+  {
+    "id": "80281a56-8940-4208-9127-cfb49b14ebbd",
+    "category": "Яйця",
+    "productName": "Яйце куряче",
+    "proteins": "12,7",
+    "fats": "11,1",
+    "carbs": "0,6",
+    "kcal": 153
+  },
+  {
+    "id": "3941cb19-ae81-4be2-864e-1c48efea721e",
+    "category": "Яйця",
+    "productName": "Білок вареного яйця",
+    "proteins": 11,
+    "fats": 0.2,
+    "carbs": 0,
+    "kcal": 47
+  },
+  {
+    "id": "b18cf906-ff0d-4a36-b34b-e0059ab30f12",
+    "category": "Яйця",
+    "productName": "Яйце перепелине",
+    "proteins": "11,9",
+    "fats": "13,3",
+    "carbs": "0,8",
+    "kcal": 170
+  },
+  {
+    "id": "6c9af989-b479-4b8a-b208-36015fc3bc61",
+    "category": "Яйця",
+    "productName": "страусине Яйце",
+    "proteins": "12,4",
+    "fats": "11,5",
+    "carbs": "0,8",
+    "kcal": 118
+  },
+  {
+    "id": "e14355fb-c872-42da-976f-b9c33e7ec7b0",
+    "category": "Яйця",
+    "productName": "качине Яйце",
+    "proteins": "13,5",
+    "fats": "14,1",
+    "carbs": "0,2",
+    "kcal": 176
+  },
+  {
+    "id": "222f1cb9-9cb7-41a7-a970-b57260232223",
+    "category": "Яйця",
+    "productName": "Яєчний порошок",
+    "proteins": "45,3",
+    "fats": "37,3",
+    "carbs": "5,1",
+    "kcal": 545
+  },
+  {
+    "id": "68a2ce84-f4ac-4f2e-9d94-8d950fbe7386",
+    "category": "Ковбаса та ковбасні вироби",
+    "productName": "Ковбаса варена Докторська",
+    "proteins": "13,4",
+    "fats": "22,9",
+    "carbs": 0,
+    "kcal": 257
+  },
+  {
+    "id": "f1213f85-bb28-4714-b503-70978129e884",
+    "category": "Ковбаса та ковбасні вироби",
+    "productName": "Ковбаса варена Аматорська",
+    "proteins": "12,5",
+    "fats": "28,3",
+    "carbs": 0,
+    "kcal": 311
+  },
+  {
+    "id": "3945db2a-ac8b-4b75-bfd8-ad71abbe2ca5",
+    "category": "Ковбаса та ковбасні вироби",
+    "productName": "Ковбаса варена Молочна",
+    "proteins": "11,1",
+    "fats": "22,5",
+    "carbs": 0,
+    "kcal": 243
+  },
+  {
+    "id": "6abf7b65-8e17-4cb0-aabc-c2a640025c9b",
+    "category": "Ковбаса та ковбасні вироби",
+    "productName": "Ковбаса напівкопчена Аматорська",
+    "proteins": "17,6",
+    "fats": "39,1",
+    "carbs": 0,
+    "kcal": 428
+  },
+  {
+    "id": "98346b3e-6461-456b-8069-4688d6c8d469",
+    "category": "Ковбаса та ковбасні вироби",
+    "productName": "Ковбаса напівкопчена Московська",
+    "proteins": "19,1",
+    "fats": "36,1",
+    "carbs": 0,
+    "kcal": 402
+  },
+  {
+    "id": "2eecb748-df2d-45ef-adf8-616ea78b8871",
+    "category": "Ковбаса та ковбасні вироби",
+    "productName": "Ковбаса напівкопчена Сервелат",
+    "proteins": "16,1",
+    "fats": "40,2",
+    "carbs": 0,
+    "kcal": 423
+  },
+  {
+    "id": "8f2d3a5c-0fca-4605-9aa4-d27245d7cb53",
+    "category": "Ковбаса та ковбасні вироби",
+    "productName": "Ковбаса сирокопчена Аматорська",
+    "proteins": "20,6",
+    "fats": "47,8",
+    "carbs": 0,
+    "kcal": 511
+  },
+  {
+    "id": "b58edd22-bd10-4cc0-8afc-cfd13455d4f4",
+    "category": "Ковбаса та ковбасні вироби",
+    "productName": "Ковбаса сирокопчена Московська",
+    "proteins": "24,3",
+    "fats": "41,6",
+    "carbs": 0,
+    "kcal": 476
+  },
+  {
+    "id": "19327c84-2f40-401d-99d5-2f8b41d11bbd",
+    "category": "Ковбаса та ковбасні вироби",
+    "productName": "Ковбаса сирокопчена Сервелат",
+    "proteins": "24,1",
+    "fats": "40,2",
+    "carbs": 0,
+    "kcal": 453
+  },
+  {
+    "id": "7300bb12-e5db-48ab-8edd-a615be25a69e",
+    "category": "Ковбаса та ковбасні вироби",
+    "productName": "Ковбаски мисливські",
+    "proteins": "27,1",
+    "fats": "24,6",
+    "carbs": 0,
+    "kcal": 325
+  },
+  {
+    "id": "96f3d2c4-3321-4abf-b7ce-229db3c9c682",
+    "category": "Ковбаса та ковбасні вироби",
+    "productName": "Кров’янка",
+    "proteins": "10,6",
+    "fats": "17,8",
+    "carbs": "14,5",
+    "kcal": 261
+  },
+  {
+    "id": "77bcc637-5df2-4ba6-9f4f-12d43ba8c87a",
+    "category": "Ковбаса та ковбасні вироби",
+    "productName": "Салямі",
+    "proteins": "21,3",
+    "fats": "53,6",
+    "carbs": "1,1",
+    "kcal": 576
+  },
+  {
+    "id": "2c8292b0-5cd3-4925-b8d3-cd4efd119660",
+    "category": "Ковбаса та ковбасні вироби",
+    "productName": "Сардельки Яловичі",
+    "proteins": "11,1",
+    "fats": "18,2",
+    "carbs": "1,6",
+    "kcal": 215
+  },
+  {
+    "id": "15fba8e0-f6cd-4f95-a690-bd177463fbc0",
+    "category": "Ковбаса та ковбасні вироби",
+    "productName": "Сардельки Свинячі",
+    "proteins": "10,1",
+    "fats": "31,8",
+    "carbs": "1,7",
+    "kcal": 330
+  },
+  {
+    "id": "56d5ee5c-3759-49ad-9d0e-1513f8aac934",
+    "category": "Ковбаса та ковбасні вироби",
+    "productName": "Сосиски Яловичі",
+    "proteins": "10,3",
+    "fats": "20,3",
+    "carbs": "0,9",
+    "kcal": 229
+  },
+  {
+    "id": "eb842ad1-04e4-44ae-b0f9-9ebd9e495679",
+    "category": "Ковбаса та ковбасні вироби",
+    "productName": "Курячі Сосиски",
+    "proteins": "10,6",
+    "fats": "22,1",
+    "carbs": "3,3",
+    "kcal": 242
+  },
+  {
+    "id": "b348dd24-64ad-48ee-a62e-b863c1b5fe6a",
+    "category": "Ковбаса та ковбасні вироби",
+    "productName": "Сосиски Аматорські",
+    "proteins": "9,8",
+    "fats": "30,1",
+    "carbs": "0,4",
+    "kcal": 318
+  },
+  {
+    "id": "46e9d57d-2543-40a1-bc3d-453130f70102",
+    "category": "Ковбаса та ковбасні вироби",
+    "productName": "Сосиски Молочні",
+    "proteins": "11,3",
+    "fats": "23,9",
+    "carbs": "1,1",
+    "kcal": 260
+  },
+  {
+    "id": "086865ae-8884-4ee2-aec1-7d8f7c15b9c6",
+    "category": "Ковбаса та ковбасні вироби",
+    "productName": "Свинячі Сосиски",
+    "proteins": "9,2",
+    "fats": "23,2",
+    "carbs": "4,5",
+    "kcal": 284
+  },
+  {
+    "id": "eb40e579-506f-40e0-bece-c74e055e091a",
+    "category": "М’ясні продукти і птах",
+    "productName": "Баранина",
+    "proteins": "16,2",
+    "fats": "15,3",
+    "carbs": 0,
+    "kcal": 201
+  },
+  {
+    "id": "0c34ae6a-520b-442e-8317-98845e91a123",
+    "category": "М’ясні продукти і птах",
+    "productName": "Баранячі Нирки",
+    "proteins": "13,4",
+    "fats": "2,6",
+    "carbs": 0,
+    "kcal": 78
+  },
+  {
+    "id": "1b498be9-3cca-40fe-b413-7e16d0ce97cd",
+    "category": "М’ясні продукти і птах",
+    "productName": "Бараняча Печінка",
+    "proteins": "18,9",
+    "fats": "2,8",
+    "carbs": 0,
+    "kcal": 102
+  },
+  {
+    "id": "88de5714-7dfe-4395-8229-faca63aa68e2",
+    "category": "М’ясні продукти і птах",
+    "productName": "Бараняче Серце",
+    "proteins": "13,6",
+    "fats": "2,7",
+    "carbs": 0,
+    "kcal": 85
+  },
+  {
+    "id": "2f9a17cf-d591-4a6d-8107-2b4017debec9",
+    "category": "М’ясні продукти і птах",
+    "productName": "Яловичина",
+    "proteins": "18,7",
+    "fats": "12,6",
+    "carbs": 0,
+    "kcal": 191
+  },
+  {
+    "id": "88df2815-312d-48d3-bc7f-4a2ca6b37ba9",
+    "category": "М’ясні продукти і птах",
+    "productName": "Яловичі Мізки",
+    "proteins": "9,3",
+    "fats": "9,6",
+    "carbs": 0,
+    "kcal": 126
+  },
+  {
+    "id": "6bca5d8a-d8ac-4b4c-8743-9895b6452cd5",
+    "category": "М’ясні продукти і птах",
+    "productName": "Яловича Печінка",
+    "proteins": "17,6",
+    "fats": "3,2",
+    "carbs": 0,
+    "kcal": 100
+  },
+  {
+    "id": "7cfd79e9-50d2-4172-a8de-f46f0d24665f",
+    "category": "М’ясні продукти і птах",
+    "productName": "Яловичі Нирки",
+    "proteins": "12,4",
+    "fats": "1,9",
+    "carbs": 0,
+    "kcal": 67
+  },
+  {
+    "id": "7d6b54c6-5e34-4bee-bffa-51bbfa826949",
+    "category": "М’ясні продукти і птах",
+    "productName": "Вим’я Яловиче",
+    "proteins": "12,1",
+    "fats": "13,8",
+    "carbs": 0,
+    "kcal": 176
+  },
+  {
+    "id": "d70fa987-d16f-4fdd-8cbd-05f3a893add5",
+    "category": "М’ясні продукти і птах",
+    "productName": "Яловиче Серце",
+    "proteins": "15,2",
+    "fats": "3,1",
+    "carbs": 0,
+    "kcal": 89
+  },
+  {
+    "id": "301f2ce8-cd7c-4ab6-b520-1877fdbc921e",
+    "category": "М’ясні продукти і птах",
+    "productName": "Яловичий Язик",
+    "proteins": "13,4",
+    "fats": "12,1",
+    "carbs": 0,
+    "kcal": 160
+  },
+  {
+    "id": "69601715-0bb9-4d81-b72d-ccbf2a5c6bd8",
+    "category": "М’ясні продукти і птах",
+    "productName": "Конина",
+    "proteins": "20,3",
+    "fats": "7,1",
+    "carbs": 0,
+    "kcal": 149
+  },
+  {
+    "id": "0cdb45df-5ec8-4bd8-80cd-4da19136db36",
+    "category": "М’ясні продукти і птах",
+    "productName": "Кролик",
+    "proteins": "20,6",
+    "fats": "12,8",
+    "carbs": 0,
+    "kcal": 197
+  },
+  {
+    "id": "85665bac-dcf8-4a71-9739-9a19ca8bb551",
+    "category": "М’ясні продукти і птах",
+    "productName": "Свинина нежирна",
+    "proteins": "16,3",
+    "fats": "27,9",
+    "carbs": 0,
+    "kcal": 318
+  },
+  {
+    "id": "b8686be1-a83d-4290-b606-1b86217ed056",
+    "category": "М’ясні продукти і птах",
+    "productName": "Свинина жирна",
+    "proteins": "11,6",
+    "fats": "49,1",
+    "carbs": 0,
+    "kcal": 484
+  },
+  {
+    "id": "91ba53ff-30b1-4424-b224-92d3ec69bab5",
+    "category": "М’ясні продукти і птах",
+    "productName": "Свинячі нирки",
+    "proteins": "13,2",
+    "fats": "3,2",
+    "carbs": 0,
+    "kcal": 84
+  },
+  {
+    "id": "32267915-dd85-4026-bd41-8cb3a5a94b9a",
+    "category": "М’ясні продукти і птах",
+    "productName": "Свиняча печінка",
+    "proteins": "18,6",
+    "fats": "3,5",
+    "carbs": 0,
+    "kcal": 105
+  },
+  {
+    "id": "a599e511-9207-4065-bc4e-d1c74fc5f05a",
+    "category": "М’ясні продукти і птах",
+    "productName": "Свиняче серце",
+    "proteins": "15,2",
+    "fats": "3,1",
+    "carbs": 0,
+    "kcal": 87
+  },
+  {
+    "id": "f16a1d2c-89d2-437d-87e5-b8c50fd962ab",
+    "category": "М’ясні продукти і птах",
+    "productName": "Свинячий язик",
+    "proteins": "14,4",
+    "fats": "16,5",
+    "carbs": 0,
+    "kcal": 203
+  },
+  {
+    "id": "2fe009dc-7ae1-4f93-8416-5a155deee5fe",
+    "category": "М’ясні продукти і птах",
+    "productName": "Телятина",
+    "proteins": "19,9",
+    "fats": "1,1",
+    "carbs": 0,
+    "kcal": 91
+  },
+  {
+    "id": "3aa51423-d600-4da4-b75c-ca7c26af3770",
+    "category": "М’ясні продукти і птах",
+    "productName": "Гусяче м’ясо",
+    "proteins": "16,4",
+    "fats": "33,1",
+    "carbs": 0,
+    "kcal": 359
+  },
+  {
+    "id": "11a39ea2-4f74-4b3d-9295-a6159401e1e0",
+    "category": "М’ясні продукти і птах",
+    "productName": "Індичка",
+    "proteins": "21,1",
+    "fats": "12,3",
+    "carbs": "0,6",
+    "kcal": 192
+  },
+  {
+    "id": "b2873cf9-7ff2-4f1a-812d-e95fe234597e",
+    "category": "М’ясні продукти і птах",
+    "productName": "Кури",
+    "proteins": "20,4",
+    "fats": "8,6",
+    "carbs": "0,8",
+    "kcal": 161
+  },
+  {
+    "id": "4885d82d-9f39-4e9e-9c50-c2ca0c97877f",
+    "category": "М’ясні продукти і птах",
+    "productName": "Курчата",
+    "proteins": "18,5",
+    "fats": "7,9",
+    "carbs": "0,5",
+    "kcal": 159
+  },
+  {
+    "id": "a23b6177-ca9a-48d7-9fa4-7a0550801b62",
+    "category": "М’ясні продукти і птах",
+    "productName": "Качки",
+    "proteins": "16,4",
+    "fats": "61,3",
+    "carbs": 0,
+    "kcal": 348
+  },
+  {
+    "id": "0030683e-5cfc-49f0-943d-40c0e4e483c0",
+    "category": "Риба і морепродукти",
+    "productName": "Бички",
+    "proteins": "12,7",
+    "fats": "8,2",
+    "carbs": "5,1",
+    "kcal": 147
+  },
+  {
+    "id": "503bbfab-ed9c-4a39-b52d-eb71b06bb451",
+    "category": "Риба і морепродукти",
+    "productName": "Горбуша",
+    "proteins": "21,2",
+    "fats": "7,1",
+    "carbs": 0,
+    "kcal": 151
+  },
+  {
+    "id": "926cd702-262e-4628-8a32-87e5796fd80a",
+    "category": "Риба і морепродукти",
+    "productName": "Кальмар",
+    "proteins": "18,2",
+    "fats": "0,2",
+    "carbs": 0,
+    "kcal": 77
+  },
+  {
+    "id": "7d84eccf-fdaf-46c7-bc89-0ea3a5cdaf07",
+    "category": "Риба і морепродукти",
+    "productName": "Камбала",
+    "proteins": 16,
+    "fats": "2,5",
+    "carbs": 0,
+    "kcal": 86
+  },
+  {
+    "id": "fd67fa04-a811-4941-8dc4-6828f0542d65",
+    "category": "Риба і морепродукти",
+    "productName": "Карась",
+    "proteins": "17,5",
+    "fats": "1,6",
+    "carbs": 0,
+    "kcal": 84
+  },
+  {
+    "id": "c8ffeeda-3c2f-4c5c-80df-2e838bea6673",
+    "category": "Риба і морепродукти",
+    "productName": "Короп",
+    "proteins": 16,
+    "fats": "3,5",
+    "carbs": 0,
+    "kcal": 95
+  },
+  {
+    "id": "b87ddc68-2ddc-415c-9d03-6e45d623f39f",
+    "category": "Риба і морепродукти",
+    "productName": "Кета",
+    "proteins": "22,1",
+    "fats": "5,8",
+    "carbs": 0,
+    "kcal": 138
+  },
+  {
+    "id": "89997f64-1a61-47e9-b098-48afb52bbb53",
+    "category": "Риба і морепродукти",
+    "productName": "Килька",
+    "proteins": "14,3",
+    "fats": "9,2",
+    "carbs": 0,
+    "kcal": 142
+  },
+  {
+    "id": "4121a881-94b2-40f2-bc2c-03ce60803eef",
+    "category": "Риба і морепродукти",
+    "productName": "Корюшка",
+    "proteins": "15,3",
+    "fats": "3,3",
+    "carbs": 0,
+    "kcal": 93
+  },
+  {
+    "id": "ea002b76-82da-4148-961c-47501a7299b1",
+    "category": "Риба і морепродукти",
+    "productName": "Крабове м’ясо",
+    "proteins": 16,
+    "fats": "0,9",
+    "carbs": 0,
+    "kcal": 67
+  },
+  {
+    "id": "c1382825-9dd6-4138-8e0f-354ae80d6b6d",
+    "category": "Риба і морепродукти",
+    "productName": "Крабові палички",
+    "proteins": "17,9",
+    "fats": "2,1",
+    "carbs": 0,
+    "kcal": 73
+  },
+  {
+    "id": "89663c8d-5c43-4767-9883-855a4a252bab",
+    "category": "Риба і морепродукти",
+    "productName": "Краснопірка",
+    "proteins": "18,5",
+    "fats": "3,1",
+    "carbs": 0,
+    "kcal": 106
+  },
+  {
+    "id": "ecdb3942-9ba2-45dd-9a3e-0a8d0d2a1c9b",
+    "category": "Риба і морепродукти",
+    "productName": "Креветка",
+    "proteins": 18,
+    "fats": "0,9",
+    "carbs": 0,
+    "kcal": 85
+  },
+  {
+    "id": "f5bff09f-9b4a-4424-a742-de177fd92378",
+    "category": "Риба і морепродукти",
+    "productName": "Крижана",
+    "proteins": "15,6",
+    "fats": "1,3",
+    "carbs": 0,
+    "kcal": 76
+  },
+  {
+    "id": "05011a3c-adc0-448b-8074-7fd70c135107",
+    "category": "Риба і морепродукти",
+    "productName": "Лящ",
+    "proteins": "17,2",
+    "fats": "4,2",
+    "carbs": 0,
+    "kcal": 109
+  },
+  {
+    "id": "3e61d479-98d1-4c3e-a296-4cddf0757f42",
+    "category": "Риба і морепродукти",
+    "productName": "лосось c/c",
+    "proteins": 23,
+    "fats": 13,
+    "carbs": 0,
+    "kcal": 209
+  },
+  {
+    "id": "bdc0c3ff-b892-4a1c-bfa0-0799dcdfdd82",
+    "category": "Риба і морепродукти",
+    "productName": "Лосось",
+    "proteins": "19,2",
+    "fats": "13,8",
+    "carbs": 0,
+    "kcal": 200
+  },
+  {
+    "id": "b6aba989-f7c2-4104-94ce-3f2eaf66aac3",
+    "category": "Риба і морепродукти",
+    "productName": "Макрель",
+    "proteins": "20,2",
+    "fats": "3,6",
+    "carbs": 0,
+    "kcal": 111
+  },
+  {
+    "id": "396503bf-dc06-4dc1-84d8-548821dfd3e1",
+    "category": "Риба і морепродукти",
+    "productName": "Мідії варені",
+    "proteins": "9,7",
+    "fats": "1,6",
+    "carbs": 0,
+    "kcal": 53
+  },
+  {
+    "id": "4a63a5ad-3645-4ec5-a399-16a77b360065",
+    "category": "Риба і морепродукти",
+    "productName": "Минтай",
+    "proteins": "15,7",
+    "fats": "0,6",
+    "carbs": 0,
+    "kcal": 67
+  },
+  {
+    "id": "b7938d84-3e02-4fb1-bfe9-4e044a26a136",
+    "category": "Риба і морепродукти",
+    "productName": "Мойва",
+    "proteins": "13,1",
+    "fats": "11,7",
+    "carbs": 0,
+    "kcal": 159
+  },
+  {
+    "id": "72ee7744-4198-4596-a5e9-d2e4e2190421",
+    "category": "Риба і морепродукти",
+    "productName": "Навага",
+    "proteins": "16,71",
+    "fats": "1,3",
+    "carbs": 0,
+    "kcal": 78
+  },
+  {
+    "id": "ecf15454-c170-422b-aa85-d3443d4fa9b4",
+    "category": "Риба і морепродукти",
+    "productName": "Минь",
+    "proteins": "18,6",
+    "fats": "0,8",
+    "carbs": 0,
+    "kcal": 85
+  },
+  {
+    "id": "9537b915-1fdf-4eb0-9d00-6276e40d8835",
+    "category": "Риба і морепродукти",
+    "productName": "Окунь морський",
+    "proteins": "17,4",
+    "fats": "5,5",
+    "carbs": 0,
+    "kcal": 123
+  },
+  {
+    "id": "f61630f7-a922-4f1b-bd60-ead789740a6b",
+    "category": "Риба і морепродукти",
+    "productName": "Окунь річковий",
+    "proteins": "18,3",
+    "fats": "0,7",
+    "carbs": 0,
+    "kcal": 80
+  },
+  {
+    "id": "cc14973e-4436-46e7-a4c4-1eccbea176a6",
+    "category": "Риба і морепродукти",
+    "productName": "Осетер",
+    "proteins": "16,5",
+    "fats": "10,5",
+    "carbs": 0,
+    "kcal": 161
+  },
+  {
+    "id": "11eb094e-0fea-4cd5-99af-cc697b74a7de",
+    "category": "Риба і морепродукти",
+    "productName": "Восьминіг",
+    "proteins": "18,5",
+    "fats": 0,
+    "carbs": 0,
+    "kcal": 74
+  },
+  {
+    "id": "3194864b-2f05-46ca-8ff2-ef2041f9097e",
+    "category": "Риба і морепродукти",
+    "productName": "Палтус",
+    "proteins": "18,5",
+    "fats": "3,2",
+    "carbs": 0,
+    "kcal": 106
+  },
+  {
+    "id": "c927e96c-6d8e-49d8-9350-1509588d72e8",
+    "category": "Молочні продукти",
+    "productName": "Творог 5%",
+    "proteins": "16",
+    "fats": "5,01",
+    "carbs": "3,02",
+    "kcal": "121"
+  },
+  {
+    "id": "d04adf24-7ef9-4885-8ea1-fa4fda2dc122",
+    "category": "Молочні продукти",
+    "productName": "моцарела",
+    "proteins": "16",
+    "fats": 23,
+    "carbs": "0,6",
+    "kcal": "319"
+  },
+  {
+    "id": "7d3099fd-d9ff-4d31-b725-1cf81d82fb46",
+    "category": "Риба і морепродукти",
+    "productName": "Плотва",
+    "proteins": "18,5",
+    "fats": "0,4",
+    "carbs": 0,
+    "kcal": 108
+  },
+  {
+    "id": "29abf894-ca58-4ea4-907a-34a4987ebc73",
+    "category": "Риба і морепродукти",
+    "productName": "Раки варені",
+    "proteins": "20,3",
+    "fats": "1,2",
+    "carbs": "1,1",
+    "kcal": 96
+  },
+  {
+    "id": "a6911247-b8f9-40a2-91e4-a3fbd1438fcf",
+    "category": "Риба і морепродукти",
+    "productName": "Сазан",
+    "proteins": "18,1",
+    "fats": "5,2",
+    "carbs": 0,
+    "kcal": 119
+  },
+  {
+    "id": "693c08b5-8997-4143-9b97-5ceee886c094",
+    "category": "Риба і морепродукти",
+    "productName": "Сайра",
+    "proteins": "18,3",
+    "fats": "20,5",
+    "carbs": 0,
+    "kcal": 257
+  },
+  {
+    "id": "99d05087-a76f-476b-841c-57ef20c8bbe9",
+    "category": "Риба і морепродукти",
+    "productName": "Салака",
+    "proteins": "17,1",
+    "fats": "5,8",
+    "carbs": 0,
+    "kcal": 124
+  },
+  {
+    "id": "aaee22bd-d2a2-45ea-8371-4618e2c58dea",
+    "category": "Риба і морепродукти",
+    "productName": "Оселедець",
+    "proteins": "17,3",
+    "fats": "19,9",
+    "carbs": 0,
+    "kcal": 248
+  },
+  {
+    "id": "464e1416-a8f1-40f2-84a7-c54c967df51a",
+    "category": "Риба і морепродукти",
+    "productName": "Сьомга",
+    "proteins": "20,9",
+    "fats": "15,3",
+    "carbs": 0,
+    "kcal": 222
+  },
+  {
+    "id": "edf583b4-83c8-4ca0-9cc7-c0cebfaec7e1",
+    "category": "Риба і морепродукти",
+    "productName": "Сиг",
+    "proteins": 19,
+    "fats": "7,3",
+    "carbs": 0,
+    "kcal": 141
+  },
+  {
+    "id": "8f7a8c4d-5fba-47fa-a26b-106345e4ea46",
+    "category": "Риба і морепродукти",
+    "productName": "Скумбрія",
+    "proteins": 18,
+    "fats": "9,5",
+    "carbs": 0,
+    "kcal": 158
+  },
+  {
+    "id": "556a275c-d751-47ee-be8d-24787e43e381",
+    "category": "Риба і морепродукти",
+    "productName": "Сом",
+    "proteins": "16,7",
+    "fats": "8,4",
+    "carbs": 0,
+    "kcal": 141
+  },
+  {
+    "id": "88c92d8a-3448-4059-b401-25b213f77ed5",
+    "category": "Риба і морепродукти",
+    "productName": "Ставрида",
+    "proteins": 18,
+    "fats": "5,3",
+    "carbs": 0,
+    "kcal": 119
+  },
+  {
+    "id": "1b5065ee-f0f9-4d2d-b6e1-f71bf3574905",
+    "category": "Риба і морепродукти",
+    "productName": "Стерлядь",
+    "proteins": "17,3",
+    "fats": "6,3",
+    "carbs": 0,
+    "kcal": 126
+  },
+  {
+    "id": "47d170f5-8b75-4313-b057-32be3557d592",
+    "category": "Риба і морепродукти",
+    "productName": "Судак",
+    "proteins": 19,
+    "fats": "0,7",
+    "carbs": 0,
+    "kcal": 81
+  },
+  {
+    "id": "b115f454-af74-4001-bf62-c469a9e4d082",
+    "category": "Риба і морепродукти",
+    "productName": "Тріска",
+    "proteins": "17,7",
+    "fats": "0,5",
+    "carbs": 0,
+    "kcal": 76
+  },
+  {
+    "id": "a854e78f-e7c3-4a1d-8303-044d4c7c564f",
+    "category": "Риба і морепродукти",
+    "productName": "Тунець",
+    "proteins": "21,7",
+    "fats": "1,3",
+    "carbs": 0,
+    "kcal": 95
+  },
+
+  {
+    "id": "87d913dd-7ea6-415c-ae39-fdb984490ab6",
+    "category": "Риба і морепродукти",
+    "productName": "тунець консерва Rio mare",
+    "proteins": 24,
+    "fats": "0,5",
+    "carbs": 0,
+    "kcal": 101
+  },
+  {
+    "id": "8648483c-4326-4207-8476-8480bef4298d",
+    "category": "Риба і морепродукти",
+    "productName": "тунець с/c",
+    "proteins": 24,
+    "fats": "0,4",
+    "carbs": 0,
+    "kcal": 100
+  },
+  {
+    "id": "3847802a-da05-4761-b838-7ab02fd8a3be",
+    "category": "Риба і морепродукти",
+    "productName": "Вугільна риба",
+    "proteins": "13,3",
+    "fats": "11,4",
+    "carbs": 0,
+    "kcal": 153
+  },
+  {
+    "id": "73127514-5ba8-49b7-82fb-5aa863ed71ab",
+    "category": "Риба і морепродукти",
+    "productName": "Вугор морський",
+    "proteins": "14,2",
+    "fats": "30,7",
+    "carbs": 0,
+    "kcal": 331
+  },
+  {
+    "id": "86447ebd-7dec-44c1-9c4a-bcd8a3300993",
+    "category": "Риба і морепродукти",
+    "productName": "Устриці",
+    "proteins": "14,4",
+    "fats": "0,3",
+    "carbs": "6,2",
+    "kcal": 91
+  },
+  {
+    "id": "887d17bd-1b16-4516-8e40-d9390b9f1f3c",
+    "category": "Риба і морепродукти",
+    "productName": "Форель",
+    "proteins": "19,6",
+    "fats": "2,1",
+    "carbs": 0,
+    "kcal": 99
+  },
+  {
+    "id": "72b93964-3a71-4d95-941e-eaa9a551fa34",
+    "category": "Риба і морепродукти",
+    "productName": "Хек",
+    "proteins": "16,4",
+    "fats": "2,3",
+    "carbs": 0,
+    "kcal": 84
+  },
+  {
+    "id": "b1172fa1-40c6-4916-b7e2-d789f30a1b65",
+    "category": "Риба і морепродукти",
+    "productName": "Щука",
+    "proteins": "18,2",
+    "fats": "0,8",
+    "carbs": 0,
+    "kcal": 83
+  },
+  {
+    "id": "453e4d23-0266-4dc9-90c1-09391a6ee43b",
+    "category": "Риба і морепродукти",
+    "productName": "Мова морський",
+    "proteins": "10,3",
+    "fats": "5,3",
+    "carbs": 0,
+    "kcal": 89
+  },
+  {
+    "id": "967c586c-0583-42ba-89dc-2404cfc0c45b",
+    "category": "Овочі",
+    "productName": "Баклажани",
+    "proteins": "0,6",
+    "fats": "0,1",
+    "carbs": "7,5",
+    "kcal": 22
+  },
+  {
+    "id": "32f3b80b-bdb9-4c43-8e9f-18c18ff491f0",
+    "category": "Овочі",
+    "productName": "Боби",
+    "proteins": "6,1",
+    "fats": "0,1",
+    "carbs": "8,1",
+    "kcal": 59
+  },
+  {
+    "id": "0190db7a-acdd-4753-8a0e-625cc6e6c7de",
+    "category": "Овочі",
+    "productName": "Бруква",
+    "proteins": "1,2",
+    "fats": "0,1",
+    "carbs": "8,4",
+    "kcal": 38
+  },
+  {
+    "id": "81b93af8-6a31-48d1-9dc5-b2636119e54d",
+    "category": "Овочі",
+    "productName": "Горошок зелений",
+    "proteins": "5,4",
+    "fats": "0,2",
+    "carbs": "13,6",
+    "kcal": 75
+  },
+  {
+    "id": "39111c5c-131d-4be3-b0ca-99dc4950b09f",
+    "category": "Овочі",
+    "productName": "Кабачки",
+    "proteins": "0,8",
+    "fats": "0,3",
+    "carbs": "5,9",
+    "kcal": 30
+  },
+  {
+    "id": "7a404095-e3f3-4940-8729-bd39b5a985f3",
+    "category": "Овочі",
+    "productName": "Капуста білокачанна",
+    "proteins": "1,9",
+    "fats": 0,
+    "carbs": "5,7",
+    "kcal": 31
+  },
+  {
+    "id": "e87173ff-0154-45d4-a860-3ec9755450bb",
+    "category": "Овочі",
+    "productName": "Капуста червонокачанна",
+    "proteins": "1,9",
+    "fats": 0,
+    "carbs": "6,3",
+    "kcal": 34
+  },
+  {
+    "id": "9b955776-1818-404a-9e76-3e44ef8a5ae7",
+    "category": "Овочі",
+    "productName": "Капуста цвітна",
+    "proteins": "2,7",
+    "fats": 0,
+    "carbs": "5,2",
+    "kcal": 30
+  },
+  {
+    "id": "1ed7a475-4fdb-498a-8c99-dc3739b094ec",
+    "category": "Овочі",
+    "productName": "Картопля варена",
+    "proteins": 2,
+    "fats": "0,3",
+    "carbs": "16,5",
+    "kcal": 80
+  },
+  {
+    "id": "2187657b-f0c6-4f64-96f6-5dc597bb2660",
+    "category": "Овочі",
+    "productName": "Картопля смажена",
+    "proteins": "2,6",
+    "fats": "9,7",
+    "carbs": "23,5",
+    "kcal": 198
+  },
+  {
+    "id": "7f8ab255-6af7-479d-9e41-78947364a3e5",
+    "category": "Овочі",
+    "productName": "Картопля молодий",
+    "proteins": "2,2",
+    "fats": "0,3",
+    "carbs": "12,5",
+    "kcal": 57
+  },
+  {
+    "id": "4ed9ecb6-b21d-4066-b356-7d63f746c6fa",
+    "category": "Овочі",
+    "productName": "Цибуля зелена (перо)",
+    "proteins": "1,4",
+    "fats": 0,
+    "carbs": "4,2",
+    "kcal": 21
+  },
+  {
+    "id": "7a7812a8-85b1-41aa-b038-e28237822213",
+    "category": "Овочі",
+    "productName": "Цибуля порей",
+    "proteins": "3,2",
+    "fats": 0,
+    "carbs": "7,1",
+    "kcal": 38
+  },
+  {
+    "id": "370e6c16-3b52-4fe4-9981-2a9a46f409c7",
+    "category": "Овочі",
+    "productName": "Цибуля ріпчаста",
+    "proteins": "1,6",
+    "fats": 0,
+    "carbs": "9,3",
+    "kcal": 41
+  },
+  {
+    "id": "a638cd45-8bed-49c7-a880-df219bd30406",
+    "category": "Овочі",
+    "productName": "Морква",
+    "proteins": "1,3",
+    "fats": "0,1",
+    "carbs": "6,3",
+    "kcal": 29
+  },
+  {
+    "id": "40cb22f5-4ee2-42ff-87c6-f076e496e64d",
+    "category": "Овочі",
+    "productName": "Огірки грунтові",
+    "proteins": "0,7",
+    "fats": 0,
+    "carbs": "3,1",
+    "kcal": 15
+  },
+  {
+    "id": "37c7bbc6-fdab-4d10-93bb-24001dcd344a",
+    "category": "Овочі",
+    "productName": "Огірок свіжий",
+    "proteins": "0,82",
+    "fats": "0,18",
+    "carbs": "2,28",
+    "kcal": 16
+  },
+  {
+    "id": "5c84289a-572f-435a-89b8-b6cd7a033052",
+    "category": "Овочі",
+    "productName": "Огірки парникові",
+    "proteins": "0,7",
+    "fats": 0,
+    "carbs": "1,6",
+    "kcal": 9
+  },
+  {
+    "id": "af2b7ebe-6233-4f90-8fae-adcacef9dfca",
+    "category": "Овочі",
+    "productName": "Оливки",
+    "proteins": "0,6",
+    "fats": "10,2",
+    "carbs": "6,7",
+    "kcal": 111
+  },
+  {
+    "id": "ce707396-6073-4e7d-aea5-3442382fa8da",
+    "category": "Овочі",
+    "productName": "Перець зелений солодкий",
+    "proteins": "1,2",
+    "fats": 0,
+    "carbs": "4,8",
+    "kcal": 24
+  },
+  {
+    "id": "c59ad0cb-6374-4b7c-a36c-8b7531527519",
+    "category": "Овочі",
+    "productName": "Перець червоний солодкий",
+    "proteins": "1,2",
+    "fats": 0,
+    "carbs": "5,5",
+    "kcal": 26
+  },
+  {
+    "id": "dc4d7718-5940-4d10-8cf0-25ac713a0331",
+    "category": "Овочі",
+    "productName": "Петрушка (зелень)",
+    "proteins": "3,8",
+    "fats": 0,
+    "carbs": 8,
+    "kcal": 45
+  },
+  {
+    "id": "5ce5b8f0-ccbf-4328-97c0-1f06d498d3a1",
+    "category": "Овочі",
+    "productName": "Петрушка (корінь)",
+    "proteins": "1,6",
+    "fats": 0,
+    "carbs": "11,2",
+    "kcal": 48
+  },
+  {
+    "id": "d1073bc8-c288-421a-a8d9-b56f30e418f4",
+    "category": "Овочі",
+    "productName": "Редис",
+    "proteins": "1,5",
+    "fats": 0,
+    "carbs": "4,2",
+    "kcal": 22
+  },
+  {
+    "id": "f4df5ca7-915f-4911-b450-5322f8dd2022",
+    "category": "Овочі",
+    "productName": "Редька",
+    "proteins": "1,7",
+    "fats": 0,
+    "carbs": "7,1",
+    "kcal": 33
+  },
+  {
+    "id": "8c3ff086-59c8-437c-a582-332010795b59",
+    "category": "Овочі",
+    "productName": "Ріпа",
+    "proteins": "1,6",
+    "fats": 0,
+    "carbs": "5,8",
+    "kcal": 27
+  },
+  {
+    "id": "a290253b-eb63-4fca-ad3c-62d6854a9bab",
+    "category": "Овочі",
+    "productName": "Салат",
+    "proteins": "1,6",
+    "fats": 0,
+    "carbs": "2,1",
+    "kcal": 15
+  },
+  {
+    "id": "8841031c-d679-4d54-abcb-d7d69c0ea803",
+    "category": "Овочі",
+    "productName": "Буряк",
+    "proteins": "1,7",
+    "fats": 0,
+    "carbs": "10,5",
+    "kcal": 46
+  },
+  {
+    "id": "c2fa5b3e-cd8b-4b00-826f-691b41f37c62",
+    "category": "Овочі",
+    "productName": "Томати (ґрунтові)",
+    "proteins": "0,7",
+    "fats": 0,
+    "carbs": "4,1",
+    "kcal": 19
+  },
+  {
+    "id": "55155054-2d4a-4d32-b2ff-2c86c0af1a37",
+    "category": "Овочі",
+    "productName": "Томати (парникові)",
+    "proteins": "0,7",
+    "fats": 0,
+    "carbs": "2,6",
+    "kcal": 12
+  },
+  {
+    "id": "774bed39-7bc1-4c6e-8ee5-30bfea8f6fdd",
+    "category": "Овочі",
+    "productName": "Квасоля",
+    "proteins": "4,4",
+    "fats": 0,
+    "carbs": "4,4",
+    "kcal": 36
+  },
+  {
+    "id": "76471cf4-baae-47fe-9eb0-19086047a9fe",
+    "category": "Овочі",
+    "productName": "Хрін",
+    "proteins": "2,6",
+    "fats": 0,
+    "carbs": "16,1",
+    "kcal": 70
+  },
+  {
+    "id": "3d861b93-e98f-4661-94d7-3b41984ee8db",
+    "category": "Овочі",
+    "productName": "Часник",
+    "proteins": "6,6",
+    "fats": 0,
+    "carbs": "21,1",
+    "kcal": 103
+  },
+  {
+    "id": "e6e3c9fa-186c-4ee9-b84d-8e815c76da1c",
+    "category": "Овочі",
+    "productName": "Шпинат",
+    "proteins": "2,5",
+    "fats": 0,
+    "carbs": "2,6",
+    "kcal": 22
+  },
+  {
+    "id": "eb31cf30-3989-4010-be4c-49e0a940e5b0",
+    "category": "Овочі",
+    "productName": "Щавель",
+    "proteins": "1,6",
+    "fats": 0,
+    "carbs": "5,5",
+    "kcal": 29
+  },
+  {
+    "id": "3eeb6208-041d-4ae5-964a-3ab05597bf2f",
+    "category": "Фрукти і ягоди",
+    "productName": "Яблуко",
+    "proteins": "0,5",
+    "fats": 0,
+    "carbs": "11,4",
+    "kcal": 48
+  },
+  {
+    "id": "e35c926c-7c3c-433c-acf2-038da14eb66f",
+    "category": "Фрукти і ягоди",
+    "productName": "Авокадо Хасс",
+    "proteins": 2,
+    "fats": "15,4",
+    "carbs": 6,
+    "kcal": 168
+  },
+  {
+    "id": "55e2d1c5-77a2-434f-ae92-c5a318a04416",
+    "category": "Фрукти і ягоди",
+    "productName": "Авокадо свіже",
+    "proteins": "1,6",
+    "fats": "13,1",
+    "carbs": 6,
+    "kcal": 159
+  },
+  {
+    "id": "b62a2f48-9790-4f3c-ad50-8e4726742183",
+    "category": "Фрукти і ягоди",
+    "productName": "Абрикоси",
+    "proteins": "0,7",
+    "fats": 0,
+    "carbs": "10,1",
+    "kcal": 44
+  },
+  {
+    "id": "edd77749-0fed-45eb-99f0-c0e0180ff6f0",
+    "category": "Фрукти і ягоди",
+    "productName": "Айва",
+    "proteins": "0,6",
+    "fats": 0,
+    "carbs": "8,7",
+    "kcal": 37
+  },
+  {
+    "id": "3189ab28-bdc5-4b0d-9049-28bc3ad15e04",
+    "category": "Фрукти і ягоди",
+    "productName": "Алича",
+    "proteins": "0,3",
+    "fats": 0,
+    "carbs": "7,6",
+    "kcal": 35
+  },
+  {
+    "id": "ab02fc1b-1161-4f22-9e93-e7525f291852",
+    "category": "Фрукти і ягоди",
+    "productName": "Ананас",
+    "proteins": "0,3",
+    "fats": 0,
+    "carbs": "11,9",
+    "kcal": 49
+  },
+  {
+    "id": "0813f4a1-21e9-4813-8b55-88917c6a45f5",
+    "category": "Фрукти і ягоди",
+    "productName": "Апельсин",
+    "proteins": "0,8",
+    "fats": 0,
+    "carbs": "8,6",
+    "kcal": 38
+  },
+  {
+    "id": "cb26362e-f1a9-4a05-8f84-ea8c38e26bbe",
+    "category": "Фрукти і ягоди",
+    "productName": "Банан",
+    "proteins": "1,7",
+    "fats": 0,
+    "carbs": "22,1",
+    "kcal": 87
+  },
+  {
+    "id": "8b0f46bb-768b-43d6-b68a-bb4a28df3872",
+    "category": "Фрукти і ягоди",
+    "productName": "Брусниця",
+    "proteins": "0,6",
+    "fats": 0,
+    "carbs": "8,8",
+    "kcal": 42
+  },
+  {
+    "id": "dfd6e990-38e0-4ede-92ba-a22227b25a32",
+    "category": "Фрукти і ягоди",
+    "productName": "Виноград",
+    "proteins": "0,5",
+    "fats": 0,
+    "carbs": "17,8",
+    "kcal": 73
+  },
+  {
+    "id": "22988e96-f37f-4408-8b4c-de75b030aec5",
+    "category": "Фрукти і ягоди",
+    "productName": "Вишня",
+    "proteins": "0,9",
+    "fats": 0,
+    "carbs": "11,1",
+    "kcal": 46
+  },
+  {
+    "id": "62c9b1ac-9da8-489f-bcda-1569f64ea162",
+    "category": "Фрукти і ягоди",
+    "productName": "Гранат",
+    "proteins": "0,9",
+    "fats": 0,
+    "carbs": "11,9",
+    "kcal": 53
+  },
+  {
+    "id": "46b58d23-56a3-4fa9-83cd-5dbed1b3f923",
+    "category": "Фрукти і ягоди",
+    "productName": "Грейпфрут",
+    "proteins": "0,8",
+    "fats": 0,
+    "carbs": "7,5",
+    "kcal": 37
+  },
+  {
+    "id": "ddedb108-e155-40f5-b159-75a86adfd96a",
+    "category": "Фрукти і ягоди",
+    "productName": "Груша",
+    "proteins": "0,5",
+    "fats": 0,
+    "carbs": "10,6",
+    "kcal": 41
+  },
+  {
+    "id": "19c0440a-cd8c-4dca-848d-3383dcf8665d",
+    "category": "Фрукти і ягоди",
+    "productName": "Лохина",
+    "proteins": "1,1",
+    "fats": 0,
+    "carbs": "7,4",
+    "kcal": 35
+  },
+  {
+    "id": "c3d374e3-ef20-44fb-8a3d-c610dfaab820",
+    "category": "Фрукти і ягоди",
+    "productName": "Диня",
+    "proteins": "0,8",
+    "fats": "0,3",
+    "carbs": "7,3",
+    "kcal": 34
+  },
+  {
+    "id": "04db441d-c4c2-423c-be23-f3918cdee100",
+    "category": "Фрукти і ягоди",
+    "productName": "Ожина",
+    "proteins": "1,9",
+    "fats": 0,
+    "carbs": "5,1",
+    "kcal": 31
+  },
+  {
+    "id": "75755e96-d868-4aad-9658-139c95b07533",
+    "category": "Фрукти і ягоди",
+    "productName": "Суниця",
+    "proteins": "1,9",
+    "fats": 0,
+    "carbs": "7,1",
+    "kcal": 40
+  },
+  {
+    "id": "0af72e3d-39da-4d17-a0b9-27a050bc1b81",
+    "category": "Фрукти і ягоди",
+    "productName": "Інжир",
+    "proteins": "0,9",
+    "fats": 0,
+    "carbs": "13,7",
+    "kcal": 57
+  },
+  {
+    "id": "a4d739b8-c435-453b-9cd5-45ac941bda0f",
+    "category": "Фрукти і ягоди",
+    "productName": "Ківі",
+    "proteins": 1,
+    "fats": "0,7",
+    "carbs": "9,7",
+    "kcal": 46
+  },
+  {
+    "id": "5f0d3e86-d26f-4fb7-b26f-66cf301f685e",
+    "category": "Фрукти і ягоди",
+    "productName": "Кизил",
+    "proteins": "1,1",
+    "fats": 0,
+    "carbs": "9,4",
+    "kcal": 42
+  },
+  {
+    "id": "a7f16958-18fc-4a8b-bd3d-ea9c22190653",
+    "category": "Фрукти і ягоди",
+    "productName": "Полуниця",
+    "proteins": "0,6",
+    "fats": "0,4",
+    "carbs": 7,
+    "kcal": 30
+  },
+  {
+    "id": "85f181b5-3948-4742-b947-c9d8fe6fe363",
+    "category": "Фрукти і ягоди",
+    "productName": "Журавлина",
+    "proteins": "0,7",
+    "fats": 0,
+    "carbs": "4,9",
+    "kcal": 27
+  },
+  {
+    "id": "0862eb9f-c961-4ff5-adb6-978ee6ed6834",
+    "category": "Фрукти і ягоди",
+    "productName": "Агрус",
+    "proteins": "0,8",
+    "fats": 0,
+    "carbs": "9,7",
+    "kcal": 43
+  },
+  {
+    "id": "d06fc90a-7b22-4ceb-a87e-b3dbabfdd91e",
+    "category": "Фрукти і ягоди",
+    "productName": "Лимон",
+    "proteins": "0,9",
+    "fats": 0,
+    "carbs": "3,3",
+    "kcal": 30
+  },
+  {
+    "id": "f51ff137-990d-4dbb-8c70-89d9baecc895",
+    "category": "Фрукти і ягоди",
+    "productName": "Малина",
+    "proteins": "0,7",
+    "fats": 0,
+    "carbs": "9,2",
+    "kcal": 43
+  },
+  {
+    "id": "a478495e-24c9-4649-bad9-07b4867c8a15",
+    "category": "Фрукти і ягоди",
+    "productName": "Мандарин",
+    "proteins": "0,9",
+    "fats": 0,
+    "carbs": "8,8",
+    "kcal": 39
+  },
+  {
+    "id": "f359c421-05e4-4843-97ab-1e7645e99388",
+    "category": "Фрукти і ягоди",
+    "productName": "Манго",
+    "proteins": "0,6",
+    "fats": "0,4",
+    "carbs": "11,8",
+    "kcal": 69
+  },
+  {
+    "id": "409b4cfd-a14d-450f-bca9-4901c63b852e",
+    "category": "Фрукти і ягоди",
+    "productName": "Морошка",
+    "proteins": "0,9",
+    "fats": 0,
+    "carbs": "6,9",
+    "kcal": 33
+  },
+  {
+    "id": "f25fe1e3-6208-432d-b6c9-5ae5ee0fcf44",
+    "category": "Фрукти і ягоди",
+    "productName": "Обліпиха",
+    "proteins": "0,8",
+    "fats": 0,
+    "carbs": "5,6",
+    "kcal": 31
+  },
+  {
+    "id": "ccdcca21-deba-4f58-860c-a2297dcccd54",
+    "category": "Фрукти і ягоди",
+    "productName": "Персики",
+    "proteins": "0,9",
+    "fats": 0,
+    "carbs": "10,1",
+    "kcal": 42
+  },
+  {
+    "id": "533640f8-1fa9-435a-bb8a-4db38a389207",
+    "category": "Фрукти і ягоди",
+    "productName": "Памело",
+    "proteins": "0,6",
+    "fats": "0,1",
+    "carbs": "6,1",
+    "kcal": 29
+  },
+  {
+    "id": "a4db01e6-9a50-446d-ae3e-028eb7a33e74",
+    "category": "Фрукти і ягоди",
+    "productName": "Горобина",
+    "proteins": "1,6",
+    "fats": 0,
+    "carbs": "12,2",
+    "kcal": 57
+  },
+  {
+    "id": "2a75fbb6-9f3c-4bde-87b0-86c401db033a",
+    "category": "Фрукти і ягоди",
+    "productName": "Зливу",
+    "proteins": "0,8",
+    "fats": 0,
+    "carbs": "9,7",
+    "kcal": 41
+  },
+  {
+    "id": "67372747-53e7-47b8-a04c-da29c3c64cd9",
+    "category": "Фрукти і ягоди",
+    "productName": "Смородина біла",
+    "proteins": "0,4",
+    "fats": 0,
+    "carbs": "8,5",
+    "kcal": 37
+  },
+  {
+    "id": "9a603f02-128c-400a-bfee-37ea2f3776e4",
+    "category": "Фрукти і ягоди",
+    "productName": "Смородина червона",
+    "proteins": "0,6",
+    "fats": 0,
+    "carbs": "8,7",
+    "kcal": 39
+  },
+  {
+    "id": "3e3f396e-f6dd-4afb-afa4-683f2a873ea2",
+    "category": "Фрукти і ягоди",
+    "productName": "чорна Смородина",
+    "proteins": 1,
+    "fats": 0,
+    "carbs": 8,
+    "kcal": 38
+  },
+  {
+    "id": "a1459807-63a3-48db-aa71-be9ff3579c2e",
+    "category": "Фрукти і ягоди",
+    "productName": "Хурма",
+    "proteins": "0,7",
+    "fats": 0,
+    "carbs": "15,7",
+    "kcal": 61
+  },
+  {
+    "id": "0dc95d6a-ee90-4433-b7cd-3af86077b4a8",
+    "category": "Фрукти і ягоди",
+    "productName": "Черешня",
+    "proteins": "1,3",
+    "fats": 0,
+    "carbs": "12,5",
+    "kcal": 54
+  },
+  {
+    "id": "d950c7f4-b06a-41fe-bb64-0184fc5d386e",
+    "category": "Фрукти і ягоди",
+    "productName": "Чорниця",
+    "proteins": "1,2",
+    "fats": 0,
+    "carbs": "8,8",
+    "kcal": 41
+  },
+  {
+    "id": "21a3ab9b-3304-4f0b-8534-f61e9f66f0a7",
+    "category": "Фрукти і ягоди",
+    "productName": "Шовковиця",
+    "proteins": "0,6",
+    "fats": 0,
+    "carbs": "12,5",
+    "kcal": 50
+  },
+  {
+    "id": "54cab07e-e337-4806-951a-753b97b40d71",
+    "category": "Фрукти і ягоди",
+    "productName": "Шипшина свіжий",
+    "proteins": "1,5",
+    "fats": 0,
+    "carbs": "24,2",
+    "kcal": 106
+  },
+  {
+    "id": "c40c80cc-a0f4-414d-9223-62fbb3f19f8c",
+    "category": "Фрукти і ягоди",
+    "productName": "Шипшина сушена",
+    "proteins": "4,5",
+    "fats": 0,
+    "carbs": "60,1",
+    "kcal": 259
+  },
+  {
+    "id": "7b482ae0-c92b-48a6-ab95-36a745190b6c",
+    "category": "Фрукти і ягоди",
+    "productName": "Яблука",
+    "proteins": "0,5",
+    "fats": 0,
+    "carbs": "11,4",
+    "kcal": 48
+  },
+  {
+    "id": "26340fb6-1cf6-469c-93d2-d03db05e4ac1",
+    "category": "Горіхи і сухофрукти",
+    "productName": "Арахіс",
+    "proteins": "26,2",
+    "fats": "45,3",
+    "carbs": "9,9",
+    "kcal": 555
+  },
+  {
+    "id": "0ccfc267-e534-4e8c-9c15-d785afb8809c",
+    "category": "Горіхи і сухофрукти",
+    "productName": "Волоський горіх",
+    "proteins": "13,5",
+    "fats": "61,5",
+    "carbs": "10,6",
+    "kcal": 662
+  },
+  {
+    "id": "e203b045-8811-445a-82de-573bd8f70a14",
+    "category": "Горіхи і сухофрукти",
+    "productName": "Родзинки з кісточкою",
+    "proteins": "1,7",
+    "fats": 0,
+    "carbs": "70,7",
+    "kcal": 273
+  },
+  {
+    "id": "6ae600b3-d20b-4310-891e-fe8ed0c09382",
+    "category": "Горіхи і сухофрукти",
+    "productName": "Родзинки, кишмиш",
+    "proteins": "2,5",
+    "fats": 0,
+    "carbs": "71,4",
+    "kcal": 285
+  },
+  {
+    "id": "89f1f998-839a-4851-8ee6-e9f647195301",
+    "category": "Горіхи і сухофрукти",
+    "productName": "Кешью",
+    "proteins": "25,8",
+    "fats": "54,3",
+    "carbs": "13,3",
+    "kcal": 647
+  },
+  {
+    "id": "fb31440a-7215-463f-b821-3cdd8054c488",
+    "category": "Горіхи і сухофрукти",
+    "productName": "Курага",
+    "proteins": "5,7",
+    "fats": 0,
+    "carbs": "65,3",
+    "kcal": 270
+  },
+  {
+    "id": "e195981c-c079-471a-ae23-5ee1a2b6da48",
+    "category": "Горіхи і сухофрукти",
+    "productName": "Мигдаль",
+    "proteins": "18,3",
+    "fats": "57,9",
+    "carbs": "13,4",
+    "kcal": 643
+  },
+  {
+    "id": "cd9a28c1-e129-46e4-93fc-663ee56258ce",
+    "category": "Горіхи і сухофрукти",
+    "productName": "Насіння соняшнику",
+    "proteins": "20,9",
+    "fats": "52,5",
+    "carbs": "5,4",
+    "kcal": 582
+  },
+  {
+    "id": "38be9b9f-8497-4c5d-b02d-ec9aa6f493cf",
+    "category": "Горіхи і сухофрукти",
+    "productName": "Урюк",
+    "proteins": "5,3",
+    "fats": 0,
+    "carbs": "67,9",
+    "kcal": 279
+  },
+  {
+    "id": "50e4fb62-cf8c-42a4-9178-d9bc68e22d2c",
+    "category": "Горіхи і сухофрукти",
+    "productName": "Фініки",
+    "proteins": "2,5",
+    "fats": "0,4",
+    "carbs": "69,6",
+    "kcal": 277
+  },
+  {
+    "id": "9b5faf7a-bf40-4777-b67c-8a97ea0d23b1",
+    "category": "Горіхи і сухофрукти",
+    "productName": "Фісташки",
+    "proteins": 20,
+    "fats": "50,5",
+    "carbs": "7,3",
+    "kcal": 555
+  },
+  {
+    "id": "8e309595-c8ff-47fb-9b83-ff0a42599602",
+    "category": "Горіхи і сухофрукти",
+    "productName": "Фундук",
+    "proteins": "16,3",
+    "fats": "66,7",
+    "carbs": "9,8",
+    "kcal": 701
+  },
+  {
+    "id": "06ca0cec-2396-4505-a4c1-d9f343438336",
+    "category": "Горіхи і сухофрукти",
+    "productName": "Чорнослив",
+    "proteins": "2,7",
+    "fats": 0,
+    "carbs": "65,3",
+    "kcal": 262
+  },
+  {
+    "id": "511cb998-830c-4e17-a7a4-175e46673969",
+    "category": "Горіхи і сухофрукти",
+    "productName": "Горіх волоський гречеський",
+    "proteins": "15",
+    "fats": 6,
+    "carbs": 14,
+    "kcal": 654 
+  },
+  {
+    "id": "8ea371e6-3dd2-474b-88ef-72cf6ec919c8",
+    "category": "Горіхи і сухофрукти",
+    "productName": "Яблука сушені",
+    "proteins": "3,1",
+    "fats": 0,
+    "carbs": "68,3",
+    "kcal": 275
+  },
+  {
+    "id": "eba55989-648e-478a-8440-dc854ca0770a",
+    "category": "Солодощі",
+    "productName": "Варення",
+    "proteins": "0,4",
+    "fats": "0,2",
+    "carbs": "74,5",
+    "kcal": 286
+  },
+  {
+    "id": "6880e4dd-f0ad-4455-bc3d-a56f28305af7",
+    "category": "Солодощі",
+    "productName": "Вафлі",
+    "proteins": "8,2",
+    "fats": "19,8",
+    "carbs": "53,1",
+    "kcal": 425
+  },
+  {
+    "id": "da560b81-1344-4291-9972-3de9912239b8",
+    "category": "Солодощі",
+    "productName": "Гематоген",
+    "proteins": "6,2",
+    "fats": "2,8",
+    "carbs": "75,5",
+    "kcal": 352
+  },
+  {
+    "id": "aa35d5a0-9554-4c30-8c79-71bc3592a0c9",
+    "category": "Солодощі",
+    "productName": "Драже фруктове",
+    "proteins": "3,7",
+    "fats": "10,3",
+    "carbs": "73,4",
+    "kcal": 388
+  },
+  {
+    "id": "f9bdfdb1-06ac-4a48-93d9-7836b1c33dc2",
+    "category": "Солодощі",
+    "productName": "Зефір",
+    "proteins": "0,7",
+    "fats": 0,
+    "carbs": "77,3",
+    "kcal": 295
+  },
+  {
+    "id": "f90cb73c-66bb-4516-ab88-19d4a812f5df",
+    "category": "Солодощі",
+    "productName": "Ірис",
+    "proteins": "3,1",
+    "fats": "7,7",
+    "carbs": "81,2",
+    "kcal": 384
+  },
+  {
+    "id": "66925d4a-01b7-4008-a8be-0a078192f116",
+    "category": "Солодощі",
+    "productName": "Карамель",
+    "proteins": 0,
+    "fats": "0,2",
+    "carbs": "77,3",
+    "kcal": 291
+  },
+  {
+    "id": "4323fa59-455d-43f2-a47a-81da60ce8830",
+    "category": "Солодощі",
+    "productName": "Цукерки шоколадні",
+    "proteins": "3,9",
+    "fats": "39,7",
+    "carbs": "54,6",
+    "kcal": 576
+  },
+  {
+    "id": "a2a56cd2-a135-4afa-8d5c-bbefe47124ad",
+    "category": "Солодощі",
+    "productName": "Мармелад",
+    "proteins": 0,
+    "fats": "0,2",
+    "carbs": "77,1",
+    "kcal": 289
+  },
+  {
+    "id": "51ccb846-0ed7-4c20-80cb-a5e09e1e82fd",
+    "category": "Солодощі",
+    "productName": "Мед",
+    "proteins": "0,6",
+    "fats": 0,
+    "carbs": "80,5",
+    "kcal": 312
+  },
+  {
+    "id": "5c9af574-b27d-4b63-89bf-7f2161810622",
+    "category": "Солодощі",
+    "productName": "Морозиво пломбір",
+    "proteins": "3,6",
+    "fats": "15,1",
+    "carbs": "20,5",
+    "kcal": 223
+  },
+  {
+    "id": "1d9764f1-1f7a-4361-a739-da65868dc270",
+    "category": "Солодощі",
+    "productName": "Морозиво вершкове",
+    "proteins": "3,6",
+    "fats": 10,
+    "carbs": "19,5",
+    "kcal": 182
+  },
+  {
+    "id": "8076b2bd-9912-447a-a3dc-53ce5b252bc3",
+    "category": "Солодощі",
+    "productName": "Морозиво ескімо",
+    "proteins": "3,6",
+    "fats": 20,
+    "carbs": "19,5",
+    "kcal": 278
+  },
+  {
+    "id": "2b1bab6c-7729-4071-8c58-31b1852bfedd",
+    "category": "Солодощі",
+    "productName": "Пастила",
+    "proteins": "0,6",
+    "fats": 0,
+    "carbs": "80,1",
+    "kcal": 301
+  },
+  {
+    "id": "4ab1fd80-5f6a-4127-aa6b-c0eb61a821e9",
+    "category": "Солодощі",
+    "productName": "Печиво вівсяне",
+    "proteins": "6,5",
+    "fats": "14,1",
+    "carbs": "71,4",
+    "kcal": 430
+  },
+  {
+    "id": "359163eb-82cf-4e3a-82bf-bdee017bdc03",
+    "category": "Солодощі",
+    "productName": "Печиво здобне",
+    "proteins": "10,5",
+    "fats": "5,2",
+    "carbs": 76,
+    "kcal": 447
+  },
+  {
+    "id": "c1d89d23-cc9c-4eee-a4ae-689fbced1920",
+    "category": "Солодощі",
+    "productName": "листкове Тістечко",
+    "proteins": "5,7",
+    "fats": "38,3",
+    "carbs": "46,8",
+    "kcal": 543
+  },
+  {
+    "id": "f093010a-a920-42fa-b6ce-662b3c25e7b5",
+    "category": "Солодощі",
+    "productName": "Тістечко бісквітне",
+    "proteins": "4,9",
+    "fats": "9,1",
+    "carbs": "84,1",
+    "kcal": 338
+  },
+  {
+    "id": "3f051a0a-e1b8-4d5f-8af5-df4a6631bba7",
+    "category": "Солодощі",
+    "productName": "Пряники",
+    "proteins": "4,4",
+    "fats": "2,9",
+    "carbs": "77,1",
+    "kcal": 333
+  },
+  {
+    "id": "7f60c535-30b3-4b66-9d7c-faaedcc8aed9",
+    "category": "Солодощі",
+    "productName": "Цукор",
+    "proteins": "0,2",
+    "fats": 0,
+    "carbs": "99,6",
+    "kcal": 377
+  },
+  {
+    "id": "ff5a45ce-f4ac-4d60-b7d4-931bf6686fff",
+    "category": "Солодощі",
+    "productName": "чорний шоколад",
+    "proteins": 10,
+    "fats": 43,
+    "carbs": 25,
+    "kcal": 550
+  },
+  {
+    "id": "42a3f50a-4c54-4a78-9799-e4dfc7a8f2c6",
+    "category": "Солодощі",
+    "productName": "Халва соняшникова",
+    "proteins": "11,4",
+    "fats": "29,3",
+    "carbs": "54,6",
+    "kcal": 519
+  },
+  {
+    "id": "fd7d9b2f-6391-47d3-bd11-16f320599ca4",
+    "category": "Солодощі",
+    "productName": "Шоколад темний",
+    "proteins": "5,2",
+    "fats": "35,6",
+    "carbs": "52,4",
+    "kcal": 546
+  },
+  {
+    "id": "3bac36ea-4219-4416-8bcf-694fdfd33a50",
+    "category": "Солодощі",
+    "productName": "Шоколад молочний",
+    "proteins": "6,7",
+    "fats": "35,6",
+    "carbs": "52,4",
+    "kcal": 552
+  },
+  {
+    "id": "b1dfab12-ef5b-4dc6-af49-e3fbafa636fe",
+    "category": "Хліб і хлібобулочні вироби",
+    "productName": "Хлібці рисові",
+    "proteins": "7,1",
+    "fats": 2,
+    "carbs": 82,
+    "kcal": 377
+  },
+  {
+    "id": "43dcf4bb-a3b9-4013-ac28-e26fd38eba6b",
+    "category": "Хліб і хлібобулочні вироби",
+    "productName": "Бублики",
+    "proteins": "16,4",
+    "fats": "1,1",
+    "carbs": "69,7",
+    "kcal": 342
+  },
+  {
+    "id": "b899e7a4-3f72-488e-abc0-1a6484997feb",
+    "category": "Хліб і хлібобулочні вироби",
+    "productName": "Батон нарізний",
+    "proteins": "9,4",
+    "fats": "2,7",
+    "carbs": "50,7",
+    "kcal": 261
+  },
+  {
+    "id": "9e64a9fb-0de6-4d80-8341-911586129744",
+    "category": "Хліб і хлібобулочні вироби",
+    "productName": "Бублики",
+    "proteins": "16,4",
+    "fats": "1,1",
+    "carbs": "69,7",
+    "kcal": 342
+  },
+  {
+    "id": "bb067e41-a511-4cb4-9f27-5e72bd8fa953",
+    "category": "Хліб і хлібобулочні вироби",
+    "productName": "Булочка",
+    "proteins": "7,4",
+    "fats": "1,8",
+    "carbs": "43,7",
+    "kcal": 218
+  },
+  {
+    "id": "d3254bef-d4c0-481e-a7f3-950fb4d6f373",
+    "category": "Хліб і хлібобулочні вироби",
+    "productName": "Лаваш вірменський",
+    "proteins": "7,7",
+    "fats": "1,1",
+    "carbs": "47,8",
+    "kcal": 239
+  },
+  {
+    "id": "7a3c0af2-c44d-49f2-86cc-be364bd3f3ec",
+    "category": "Хліб і хлібобулочні вироби",
+    "productName": "Борошно пшеничне вищого сорту",
+    "proteins": "10,4",
+    "fats": "0,8",
+    "carbs": "74,5",
+    "kcal": 324
+  },
+  {
+    "id": "91322821-20ee-4a2a-b031-620971971bda",
+    "category": "Хліб і хлібобулочні вироби",
+    "productName": "Борошно пшеничне I сорту",
+    "proteins": "10,6",
+    "fats": "1,4",
+    "carbs": "73,6",
+    "kcal": 329
+  },
+  {
+    "id": "4b9d722a-6818-4e5f-8850-133b0e3991fd",
+    "category": "Хліб і хлібобулочні вироби",
+    "productName": "Борошно пшеничне II сорту",
+    "proteins": "11,6",
+    "fats": "1,9",
+    "carbs": "70,7",
+    "kcal": 328
+  },
+  {
+    "id": "9ab27e08-2b1d-41b8-a12f-faa91dd208c7",
+    "category": "Хліб і хлібобулочні вироби",
+    "productName": "Борошно житнє",
+    "proteins": "6,8",
+    "fats": "1,2",
+    "carbs": "76,8",
+    "kcal": 321
+  },
+  {
+    "id": "069fbec0-d270-435d-82e2-25f1659adb67",
+    "category": "Хліб і хлібобулочні вироби",
+    "productName": "Сушіння",
+    "proteins": "11,1",
+    "fats": 1,
+    "carbs": "73,2",
+    "kcal": 335
+  },
+  {
+    "id": "f7064144-95c1-420c-8401-8ed6a27b9a2f",
+    "category": "Хліб і хлібобулочні вироби",
+    "productName": "Сухарі пшеничні",
+    "proteins": "11,6",
+    "fats": "1,8",
+    "carbs": "72,1",
+    "kcal": 327
+  },
+  {
+    "id": "ed0b1fe8-0e43-460f-beb4-bac91701374a",
+    "category": "Хліб і хлібобулочні вироби",
+    "productName": "Хліб житній",
+    "proteins": "4,7",
+    "fats": "0,6",
+    "carbs": "49,5",
+    "kcal": 210
+  },
+  {
+    "id": "763a2d22-f532-4ab4-b4ec-3ae66286a41c",
+    "category": "Хліб і хлібобулочні вироби",
+    "productName": "Хліб пшеничний з борошна I сорту",
+    "proteins": "7,4",
+    "fats": "2,2",
+    "carbs": 53,
+    "kcal": 246
+  },
+  {
+    "id": "a3874ecc-50ca-451e-b18e-e3a17d2c1b0b",
+    "category": "iнше",
+    "productName": "розпушувач тіста Розумний вибір",
+    "proteins": "7,2",
+    "fats": "0.7",
+    "carbs": "48",
+    "kcal": 230 
+  },
+  {
+    "id": "fa767f00-bb0d-483f-914f-b626df32a8c5",
+    "category": "iнше",
+    "productName": "ванілін",
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 0,
+    "kcal": 0
+  },
+  {
+    "id": "ccae5259-bc42-4907-be44-6230c85fea97",
+    "category": "iнше",
+    "productName": "кориця",
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 0,
+    "kcal": 0
+  },
+  {
+    "id": "a7286301-1b7b-4ea4-9838-210d151819de",
+    "category": "iнше",
+    "productName": "цукрозамінник",
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 0,
+    "kcal": 0
+  },
+  {
+    "id": "ec90cace-182c-4232-8f2b-b90f8d8cec83",
+    "category": "iнше",
+    "productName": "кава",
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 0,
+    "kcal": 0
+  },
+  {
+    "id": "8baa6019-c776-4832-a20b-7df011249e96",
+    "category": "iнше",
+    "productName": "овочі",
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 0,
+    "kcal": 0
+  },
+  {
+    "id": "a3eb157c-dac7-467d-acc2-2190ef137891",
+    "category": "iнше",
+    "productName": "овочі і зелень",
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 0,
+    "kcal": 0
+  },
+  {
+    "id": "7f8f0f25-d718-495a-853f-fe0ff81ad820",
+    "category": "Риба і морепродукти",
+    "productName": "риба  жарена філе",
+    "proteins": "18,2",
+    "fats": "16,8",
+    "carbs":  "0,5",
+    "kcal": 226
+  },
+  {
+    "id": "8cae0cff-da16-45ad-9475-c90fed5ec1e7",
+    "category": "Риба і морепродукти",
+    "productName": "куряче філе",
+    "proteins": "20",
+    "fats": 4,
+    "carbs":  0,
+    "kcal": 119
+  },
+  {
+    "id": "36b9cac3-485c-4a73-9837-407770166ccd",
+    "category": "iнше",
+    "productName": "насіння кунжуту",
+    "proteins": "19,4",
+    "fats": "48.7",
+    "carbs": "12,2",
+    "kcal": 565
+  },
+  {
+    "id": "7b040d84-884f-4477-8e4c-769fa5ce1b5b",
+    "category": "бакалія",
+    "productName": "мука рисова",
+    "proteins": "7,9",
+    "fats": 1,
+    "carbs": "75,2",
+    "kcal": 340
+  },  
+  {
+    "id": "d51035d9-2869-43cb-b8f1-000c33fc0e74",
+    "category": "бакалія",
+    "productName": "мука пшенична",
+    "proteins": "10,3",
+    "fats": "1,1",
+    "carbs":  70,
+    "kcal": 334
+  },
+  {
+    "id": "1b2348d0-9937-4594-81f6-2cea7f5c3fcf",
+    "category": "бакалія",
+    "productName": "лимонний сік",
+    "proteins": "0,01",
+    "fats": 0,
+    "carbs":  "4,2",
+    "kcal": 10
+  },
+  {
+    "id": "e41b1ef2-ab31-430b-80e1-4037cda8735f",
+    "category": "бакалія",
+    "productName": "спеції за смаком",
+    "proteins": 0,
+    "fats": 0,
+    "carbs":  0,
+    "kcal": 0
+  },
+  {
+    "id": "be1a3a43-0cf5-43d9-8af6-06cf89d27639",
+    "category": "iнше",
+    "productName": "котлета свинна",
+    "proteins": "14,5",
+    "fats": "28,4",
+    "carbs": "8,4",
+    "kcal": 335
+  }
+]
+
+
+
+
+
+
+
+
+
+
+

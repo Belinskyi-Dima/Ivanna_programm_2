@@ -1,0 +1,28 @@
+{"users": [
+    {
+        "id": "88877755",  
+        "firstName": "Dima",
+        "lastName": "Belinskyi",
+        "productLists": [
+            {
+                "productList": "myListID"
+            }
+        ]
+    },
+    {
+        "id": "99277755", // www.ivanna.ua/program?user=99277755
+        "firstName": "Mohamed",
+        "lastName": "Horo",
+        "productLists": [
+            {
+                "productList": "myListID",
+                "day": 1
+            },
+            {
+                "productList": "myListID2",
+                "day": 2
+            }
+        ]
+    }
+]
+}

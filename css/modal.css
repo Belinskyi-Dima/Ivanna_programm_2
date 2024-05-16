@@ -1,0 +1,145 @@
+.modal {
+    position: fixed;
+    /* position: relative; */
+    top: 0;
+    left: 0;
+    min-height: 100vh;
+    width: 100%;
+    background: rgba(0, 0, 0, .8);
+    /* display: flex; */
+    display: none;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}
+.card_box {
+    /* display: none; */
+    padding: 1rem;
+    text-align: center;
+    background: #fff;
+    border-radius: 15px;
+    position: relative;
+    margin: 2rem;
+    /* max-width: 40rem; */
+    width: 40rem;
+      overflow-y: scroll;
+      max-height: 90vh;
+}
+.card_box .active{
+    display: inline-block;
+}
+.fa-times {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    cursor: pointer;
+    color: #444;
+    font-size: 1.5rem;
+}
+.clear-input {
+    font-size: .6rem;
+    top: .6rem;
+    /* top: 0; */
+    right: .2rem;
+   
+}
+.delite-input {
+    font-size: .8rem;
+    top: .4rem;
+    color: red;
+    right: .2rem;
+    /* line-height: 1rem; */
+    /* padding: .3rem .2rem .3rem 0; */
+}
+.card_box .fa-times:hover{
+    transform: rotate(90deg);
+}
+.card_box .fa-times:active{
+    transform: rotate(90deg);
+    color: aquamarine;
+}
+.card_img-box {
+    display: flex;
+    justify-content: center;
+    padding: 1.5rem 0;
+}
+.textarea-box {
+    position: relative;
+}
+.textarea {
+    width: 100%;
+    height: auto;
+    line-height: 1.5;
+    /* padding: 0.5rem 0; */
+    font-size: 1rem;
+    padding: 5px 15px 5px 5px;
+    /* column-rule: #777; */
+    border: 0;
+    /* display: block; */
+    border-radius: 10px;
+    border: 1px solid #44444452;
+
+}
+
+.textarea-clear {
+    font-size: 1rem;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+.preview_plus-box {
+    text-align: left;
+}
+
+.product_btn {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    margin-top: 1rem;
+    
+}
+.product_btn a{
+
+    flex:1 1 16rem;
+    padding: 1rem;
+    font-size: 1.8rem;
+    /* color: #444; */
+    border: .1rem solid #444;
+    border-radius: 10px;
+    
+}
+.btn_add {
+    /* background: #444; */
+    color: #444;
+}
+.btn_add:hover.btn_add:active {
+    background: #111;
+    color: #fff;
+
+}
+.btn_edit {
+    background: #444;
+    color: #fff;
+}
+.btn_edit:hover.btn_edit:active  {
+    background: #111;
+
+}
+
+
+/* .btn_add {
+    padding: 0.3rem 3rem;
+    font-size: 1.1rem;
+    color: #444;
+    background-color: #0680885d;
+    border: none;
+    border: .1rem solid #2cbbf898;
+    border-radius: 10px;
+    color: #444;
+} */
+/* .btn_add:hover.btn_add:active {
+    background: #111;
+    color: #fff;
+
+} */

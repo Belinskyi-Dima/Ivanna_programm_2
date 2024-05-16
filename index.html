@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Ivanna</title>
+
+</head>
+<body >
+    <header class="page_header">
+        <ul class="nav_list">
+            <li class="nav_item">
+                <button id="btn_productList"  class="nav_btn menu_list_btn active" >product list</button>
+                  <svg  aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="15" height="15" fill="none" viewBox="0 0 24 24">
+                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 8h6m-6 4h6m-6 4h6M6 3v18l2-2 2 2 2-2 2 2 2-2 2 2V3l-2 2-2-2-2 2-2-2-2 2-2-2Z"/>
+                  </svg>
+            </li>
+            <li class="nav_item">
+                <button id="btn_menuList" class="nav_btn menu_products" >menu list</button>
+                <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="15" height="15" fill="none" viewBox="0 0 24 24">
+                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7h1v12a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1V5a1 1 0 0 0-1-1H5a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h11.5M7 14h6m-6 3h6m0-10h.5m-.5 3h.5M7 7h3v3H7V7Z"/>
+                  </svg>
+            </li>
+            <li class="nav_item">
+                <button id="btn_usersList" class="nav_btn menu_users" >_users menu</button>
+                <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="15" height="15" fill="none" viewBox="0 0 24 24">
+                    <path stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M16 19h4a1 1 0 0 0 1-1v-1a3 3 0 0 0-3-3h-2m-2.236-4a3 3 0 1 0 0-4M3 18v-1a3 3 0 0 1 3-3h4a3 3 0 0 1 3 3v1a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1Zm8-10a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"/>
+                  </svg>
+            </li>
+        </ul>
+           
+    </header>
+
+        <!-- section 1  -->
+        <section data-name="btn_productList" class="product-list_section container form-container active-section">
+            <h2>product list</h2>
+            <button class="btn_create-program">create new program +</button>
+    
+            <div class="menu_list-container container">
+    
+            </div>
+    
+
+
+
+    
+            <!-- <div class="popup">
+                <i class="fas fa-times close-btn"></i>
+                <div class="form">
+                    <h2>log</h2>
+                    <div class="form-element">
+                        <label for="">
+                            <input type="text" value="enter sacfsf">
+                            <span ></span>
+                        </label>
+                        <label for="">
+                            <input type="text" value="enter bhhhhh">
+                            <span ></span>
+                        </label>
+                        
+                    </div>
+                    <div class="form-element">
+                        <button>create</button>
+                        <button>delite</button>
+                    </div>
+    
+                </div>
+            </div> -->
+    
+    
+    
+    </section>
+        <!-- section 2  -->
+
+    <section data-name="btn_menuList" class="menu-list_section form-container container active-section">
+        <button>create menu</button>
+           <div class="container">
+            <ul class="menu_list">
+                <li class="menu_item" data-id="2b0f36b8-ee91-451d-a824-46c2903c6424">
+                    <div class="item_container-img">
+                        <img class="item_img" src="./img/img-1.jpg" alt="1">
+                    </div>
+                    <div class="item_info">
+                        <div class="item_info-name_box">
+                            <span class="item_info-sub_name">name :</span>
+                            <span class="item_info-name">каша</span>
+                        </div>
+                        
+                        <p class="item_info-sub_name">гручана каша cуха</p>
+                        <div class="item_info-name_box">
+                            <span class="item_info-sub_name">type:</span>
+                            <span class="item_info-name">сніданок</span>
+                        </div>
+
+                        <ul class="menu_list-info_list">
+
+                            <li class="menu_list-info_item">
+                                <p class="menu_list-info_name">ізюм</p>
+                                <p class="menu_list-info_name">30</p>
+                            </li>
+                            <li class="menu_list-info_item">
+                                <p class="menu_list-info_name">ізюм</p>
+                                <p class="menu_list-info_name">30</p>
+                            </li>
+                            <li class="menu_list-info_item">
+                                <p class="menu_list-info_name">ізюм</p>
+                                <p class="menu_list-info_name">30</p>
+                            </li>
+
+                        </ul>
+                    </div>
+                    <div class="menu-item_total-box ">
+                        <span class="menu-item__total-name">Total Kall: </span>
+                        <span class="menu-item__total-amount">111</span>
+                    </div>
+                </li>
+                <li class="menu_item" data-id="a56e65c7-9a41-4afa-a34c-bd2ce38f0a05">
+                    <div class="item_container-img">
+                        <img class="item_img" src="./img/img-2.jpg" alt="1">
+                    </div>
+                    <div class="item_info">
+                        <div class="item_info-name_box">
+                            <span class="item_info-sub_name">dishe name :</span>
+                            <span class="item_info-name">каша</span>
+                        </div>
+                        
+                        <p class="item_info-sub_name">гручана каша cуха</p>
+                        <div class="item_info-name_box">
+                            <span class="item_info-sub_name">прийом їжі :</span>
+                            <span class="item_info-name">сніданок</span>
+                        </div>
+
+                        <ul class="menu_list-info_list">
+
+                            <li class="menu_list-info_item">
+                                <p class="menu_list-info_name">ізюм</p>
+                                <p class="menu_list-info_name">30</p>
+                            </li>
+
+                        </ul>
+                    </div>
+                    <div class="menu-item_total-box ">
+                        <span class="menu-item__total-name">Total Kall: </span>
+                        <span class="menu-item__total-amount">111</span>
+                    </div>
+                </li>
+                <li class="menu_item" data-id="4a924e9e-ac19-46c1-b51f-708b6f89c67f">
+                    <div class="item_container-img">
+                        <img class="item_img" src="./img/img-3.jpg" alt="1">
+                    </div>
+                    <div class="item_info">
+                        <div class="item_info-name_box">
+                            <span class="item_info-sub_name">dishe name :</span>
+                            <span class="item_info-name">каша</span>
+                        </div>
+                        
+                        <p class="item_info-sub_name">гручана каша cуха</p>
+                        <div class="item_info-name_box">
+                            <span class="item_info-sub_name">прийом їжі :</span>
+                            <span class="item_info-name">сніданок</span>
+                        </div>
+
+                        <ul class="menu_list-info_list">
+
+                            <li class="menu_list-info_item">
+                                <span class="menu_list-info_name">ізюм</span>
+                                <span class="menu_list-info_name">30</span>
+                            </li>
+
+                        </ul>
+                    </div>
+                    <div class="menu-item_total-box ">
+                        <span class="menu-item__total-name">Total Kall: </span>
+                        <span class="menu-item__total-amount">111</span>
+                    </div>
+                </li>
+                <li class="menu_item" data-id="66082e3a-5c2e-45f1-9e4c-f7e66051ba22">
+                    <div class="item_container-img">
+                        <img class="item_img" src="./img/img-4.jpg" alt="1">
+                    </div>
+                    <div class="item_info">
+                        <div class="item_info-name_box">
+                            <span class="item_info-sub_name">dishe name :</span>
+                            <span class="item_info-name">каша</span>
+                        </div>
+                        
+                        <p class="item_info-sub_name">гручана каша cуха</p>
+                        <div class="item_info-name_box">
+                            <span class="item_info-sub_name">прийом їжі :</span>
+                            <span class="item_info-name">сніданок</span>
+                        </div>
+
+                        <ul class="menu_list-info_list">
+
+                            <li class="menu_list-info_item">
+                                <span class="menu_list-info_name">ізюм</span>
+                                <span class="menu_list-info_name">30</span>
+                            </li>
+
+                        </ul>
+                    </div>
+                    <div class="menu-item_total-box">
+                        <span class="menu-item__total-name">Total Kall: </span>
+                        <span class="menu-item__total-amount">111</span>
+                    </div>
+                </li>
+            </ul>
+           </div>
+        
+
+    </section>
+    
+        <!-- section 3  -->
+
+    <section  data-name="btn_usersList" class="form-container">
+        <h2>Form 3</h2>
+            <form>
+        
+            </form>
+    </section>
+    <div class="modal">
+        <!-- <div class="card_box">
+            <i class="fas fa-times close-btn"></i>
+            <div class="card_img-box">
+                <img class="modal_img" src="./img/img-1.jpg" alt="2">
+            </div>
+            <div class="card_info-title-box">
+                <span class="card_info-sub">name</span>
+                <span class="card_info-title">Каша</span>
+            </div>
+            <p class="card_info-sub_name">гручана каша cуха</p>
+            <div  class="dropdown">
+                <button class="dropdown-btn filter-btn">${el.mealDefault}</button>
+                <i class="fas fa-chevron-down"></i>
+                <div class="dropdown-content">
+                    <a data-day="breakfast" href="#">сніданок</a>
+                    <a  data-day="dinner" href="#">обід</a>
+                    <a  data-day="snack " href="#">перекус</a>
+                    <a  data-day="dinner" href="#">вечеря</a>
+                </div>
+            </div>
+            <div class="textarea-box">
+                <textarea class="textarea" placeholder="тут пишемо як готувати !!!!" name="" id="textarea" cols="" rows="">${el.Cooking}</textarea>
+                <i class="fas fa-times textarea-clear"></i>
+            </div>
+            <ul class="preview-info_list">
+               
+            </ul>
+        </div> -->
+     
+        
+     
+    </div> 
+
+
+
+    <script type="module" src="./js/index.js"></script>
+</body>
+</html>

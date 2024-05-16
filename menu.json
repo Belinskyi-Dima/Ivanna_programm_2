@@ -1,0 +1,485 @@
+{
+    "productLists": [
+        {        
+            "id":"2b0f36b8-ee91-451d-a824-46c2903c6424",
+            "name":"лаваш",
+            "description": "Завернути начинку в лаваш і запекти або обжарити з 2х сторін на маленькому вогні",
+            "type":"lunch", 
+            "imgUrl":"",
+            "products": [
+                {
+                    "product": "17524e51-964e-4120-9108-c0d431267a2d",
+                    "quantity": 60
+                },
+                {
+                    "product": "c927e96c-6d8e-49d8-9350-1509588d72e8",
+                    "quantity": 80
+                },
+                {
+                    "product": "3eeb6208-041d-4ae5-964a-3ab05597bf2f",
+                    "quantity": "1" 
+                },
+                {
+                    "product": "7e0570d2-bca2-4ade-aa9e-31a242e3debe",
+                    "quantity": 15
+                },
+                {
+                    "product": "6497db8e-13d2-4169-982b-8b0499935661",
+                    "quantity": 10
+                },
+                {
+                    "product": "ccae5259-bc42-4907-be44-6230c85fea97",
+                    "quantity": 0
+                },
+                {
+                    "product": "a7286301-1b7b-4ea4-9838-210d151819de",
+                    "quantity": 0
+                },
+                {
+                    "product": "ec90cace-182c-4232-8f2b-b90f8d8cec83",
+                    "quantity": 0
+                }
+            ],
+            "additionalInstruction":""
+        },
+        {        
+            "id":"a56e65c7-9a41-4afa-a34c-bd2ce38f0a05",
+            "name":"non name snack",
+            "description": "2 варених яйця",
+            "type":"snack",
+            "imgUrl":"",
+            "products": [
+                {
+                    "product": "d6d67f14-9efa-4099-b8d2-57c3f66056aa",
+                    "quantity": 30
+                },
+                {
+                    "product": "511cb998-830c-4e17-a7a4-175e46673969",
+                    "quantity": 15
+                },
+                {
+                    "product": "8baa6019-c776-4832-a20b-7df011249e96",
+                    "quantity": 120
+                }
+            ],
+            "additionalInstruction":""
+        },
+        {        
+            "id":"4a924e9e-ac19-46c1-b51f-708b6f89c67f",
+            "name":"Рис",
+            "description": "",
+            "type":"lanch",
+            "imgUrl":"",
+            "products": [
+                {
+                    "product": "87d913dd-7ea6-415c-ae39-fdb984490ab6",
+                    "quantity": 70
+                },
+                {
+                    "product": "8b87cc45-a4bc-4ffd-9c9f-a8c89444958d",
+                    "quantity":40
+                },
+                {
+                    "product": "55e2d1c5-77a2-434f-ae92-c5a318a04416",
+                    "quantity": 40
+                },
+                {
+                    "product": "37c7bbc6-fdab-4d10-93bb-24001dcd344a",
+                    "quantity": 100
+                },
+                {
+                    "product": "ff5a45ce-f4ac-4d60-b7d4-931bf6686fff",
+                    "quantity": 15
+                }
+            ],
+            "additionalInstruction":""
+        },
+        {        
+            "id":"66082e3a-5c2e-45f1-9e4c-f7e66051ba22",
+            "name":"Риба",
+            "description": "лосось /форель/скумбрія /карп запечений/гриль (готового)",
+            "type":"diner",
+            "imgUrl":"",
+            "products": [
+                {
+                    "product": "8f7a8c4d-5fba-47fa-a26b-106345e4ea46",
+                    "quantity": 130
+                },
+                {
+                    "product": "8baa6019-c776-4832-a20b-7df011249e96",
+                    "quantity": 200
+                }
+            ],
+            "additionalInstruction":""
+        },
+        {        
+            "id":"0ac3f5d8-1cfa-47bb-8d03-bb0d1c8fa2c6",
+            "name":"Лаваш",
+            "description": "",
+            "type":"breakfast",
+            "imgUrl":"",
+            "products": [
+                {
+                    "product": "17524e51-964e-4120-9108-c0d431267a2d",
+                    "quantity": 60
+                },
+                {
+                    "product": "cb26362e-f1a9-4a05-8f84-ea8c38e26bbe",
+                    "quantity": 60
+                },
+                {
+                    "product": "efb7e356-1a2c-40c3-8176-66eaee465f31",
+                    "quantity": 40
+                },
+                {
+                    "product": "ff5a45ce-f4ac-4d60-b7d4-931bf6686fff",
+                    "quantity": 15
+                },
+                {
+                    "product": "ec90cace-182c-4232-8f2b-b90f8d8cec83",
+                    "quantity": 0
+                },
+                {
+                    "product": "6497db8e-13d2-4169-982b-8b0499935661",
+                    "quantity": 10
+                }
+            ],
+            "additionalInstruction":"Завернути все в лаваш, запікати/жарити до готовності (щоб сир розплавився)"
+        },
+        {        
+            "id":"d4d38089-5ed6-424c-89df-77e7e9b49967",
+            "name":"Хлібці",
+            "description": "",
+            "type":"snack",
+            "imgUrl":"",
+            "products": [
+                {
+                    "product": "b1dfab12-ef5b-4dc6-af49-e3fbafa636fe",
+                    "quantity": 20
+                },
+                {
+                    "product": "41c3ff8d-7533-4e5b-9488-6a805521017a",
+                    "quantity": 30
+                },
+                {
+                    "product": "3e61d479-98d1-4c3e-a296-4cddf0757f42",
+                    "quantity": 40
+                },
+                {
+                    "product": "55e2d1c5-77a2-434f-ae92-c5a318a04416",
+                    "quantity": 40
+                }
+            ],
+            "additionalInstruction":""
+        },
+        {        
+            "id":"ad73a39-d68e-429a-afbe-bcad815c404b",
+            "name":"Рис",
+            "description": "(сухого)",
+            "type":"snack",
+            "imgUrl":"",
+            "products": [
+                {
+                    "product": "8b87cc45-a4bc-4ffd-9c9f-a8c89444958d",
+                    "quantity": 40
+                },
+                {
+                    "product": "7f8f0f25-d718-495a-853f-fe0ff81ad820",
+                    "quantity": 100
+                },
+                {
+                    "product": "a3eb157c-dac7-467d-acc2-2190ef137891",
+                    "quantity": 120
+                }
+            ],
+            "additionalInstruction":"риба лосось /форель/скумбрія /карп запечений/гриль (готового)"
+        },
+        {        
+            "id":"534c3b04-12f3-48c6-a892-4cdeeb58cf99",
+            "name":"no name",
+            "description": "1 порцію на сьогодні, але готуємо на 2 порцію",
+            "type":"dinner",
+            "imgUrl":"",
+            "products": [
+                {
+                    "product": "8cae0cff-da16-45ad-9475-c90fed5ec1e7",
+                    "quantity": 300
+                },
+                {
+                    "product": "7b040d84-884f-4477-8e4c-769fa5ce1b5b",
+                    "quantity": 30
+                },
+                {
+                    "product": "80281a56-8940-4208-9127-cfb49b14ebbd",
+                    "quantity": 1
+                },
+                {
+                    "product": "c8d7d381-4164-4a13-a858-3a78c482e700",
+                    "quantity": 10
+                },
+                {
+                    "product": "a290253b-eb63-4fca-ad3c-62d6854a9bab",
+                    "quantity": 170
+                }
+            ],
+            "additionalInstruction":"приправити, відбити. Обваляти в рис.муці. Жарити на кокос/вершковому маслі. Філе може вікористовувати курка/індичка "
+        },
+        {        
+            "id":"de8eb2d7-49d5-4208-9269-14569f1df02d",
+            "name":"Оладки",
+            "description": "",
+            "type":"breakfast",
+            "imgUrl":"",
+            "products": [
+                {
+                    "product": "7b040d84-884f-4477-8e4c-769fa5ce1b5b",
+                    "quantity": 50
+                },
+                {
+                    "product": "80281a56-8940-4208-9127-cfb49b14ebbd",
+                    "quantity": 63
+                },
+                {
+                    "product": "6497db8e-13d2-4169-982b-8b0499935661",
+                    "quantity": 50
+                },
+                {
+                    "product": "fa767f00-bb0d-483f-914f-b626df32a8c5",
+                    "quantity": 0
+                },
+                {
+                    "product": "a3874ecc-50ca-451e-b18e-e3a17d2c1b0b",
+                    "quantity": 0
+                },
+                {
+                    "product": "a7286301-1b7b-4ea4-9838-210d151819de",
+                    "quantity": 0
+                },
+                {
+                    "product": "a3874ecc-50ca-451e-b18e-e3a17d2c1b0b",
+                    "quantity": 0
+                },
+                {
+                    "product": "ff5a45ce-f4ac-4d60-b7d4-931bf6686fff",
+                    "quantity": 15
+                },
+                {
+                    "product": "5699d9e5-48fa-4abf-bb5f-c6386aab6845",
+                    "quantity": 5
+                },
+                {
+                    "product": "ec90cace-182c-4232-8f2b-b90f8d8cec83",
+                    "quantity": 0
+                },
+                {
+                    "product": "6497db8e-13d2-4169-982b-8b0499935661",
+                    "quantity": 10
+                }
+
+            ],
+            "additionalInstruction":"В середину кожної оладки додати по шматочку чорного шоколаду. Жарити на кокос.маслі"
+        },
+        {        
+            "id":"645b6f29-883b-4935-8bba-6f0cbc417df0",
+            "name":"no name",
+            "description": "",
+            "type":"snack",
+            "imgUrl":"",
+            "products": [
+                {
+                    "product": "b1dfab12-ef5b-4dc6-af49-e3fbafa636fe",
+                    "quantity": 20
+                },
+                {
+                    "product": "41c3ff8d-7533-4e5b-9488-6a805521017a",
+                    "quantity": 30
+                },
+                {
+                    "product": "3e61d479-98d1-4c3e-a296-4cddf0757f42",
+                    "quantity": 40
+                },
+                {
+                    "product": "55e2d1c5-77a2-434f-ae92-c5a318a04416",
+                    "quantity": 40
+                }
+            ],
+            "additionalInstruction":""
+        },
+        {        
+            "id":"57ea538d-d888-4961-b3e0-41cbcb641462",
+            "name":"Гречка",
+            "description": "(сухої)",
+            "type":"lunch",
+            "imgUrl":"",
+            "products": [
+                {
+                    "product": "44b4d731-b9af-4aa8-b32e-94ab8af59c4e",
+                    "quantity": 40
+                },
+                {
+                    "product": "8baa6019-c776-4832-a20b-7df011249e96",
+                    "quantity": 120
+                }
+            ],
+            "additionalInstruction":"+ відбивна 1порція"
+        },
+        {        
+            "id":"e71496e3-8b57-478c-a904-2facea087dc1",
+            "name":"Салат",
+            "description": "(овочі і зелень + тунець в с/с)",
+            "type":"dinner",
+            "imgUrl":"",
+            "products": [
+                {
+                    "product": "a290253b-eb63-4fca-ad3c-62d6854a9bab",
+                    "quantity": 300
+                },
+                {
+                    "product": "8648483c-4326-4207-8476-8480bef4298d",
+                    "quantity": 60
+                },
+                {
+                    "product": "55e2d1c5-77a2-434f-ae92-c5a318a04416",
+                    "quantity": 30
+                },
+                {
+                    "product": "d04adf24-7ef9-4885-8ea1-fa4fda2dc122",
+                    "quantity": 30
+                },
+                {
+                    "product": "36b9cac3-485c-4a73-9837-407770166ccd",
+                    "quantity": 15
+                },
+                {
+                    "product": "620f30b2-a035-4697-83bb-655c45def08e",
+                    "quantity": 15
+                },
+                {
+                    "product": "1b2348d0-9937-4594-81f6-2cea7f5c3fcf",
+                    "quantity": 0
+                },
+                {
+                    "product": "e41b1ef2-ab31-430b-80e1-4037cda8735f",
+                    "quantity": 0
+                }
+            ],
+            "additionalInstruction":"насіння конжуту попередньо обжарити на сухій сковорідці"
+        },
+        {        
+            "id":"092054d8-4a78-4c67-a420-37bdcbe17b50",
+            "name":"Хлібці",
+            "description": "",
+            "type":"snack",
+            "imgUrl":"",
+            "products": [
+                {
+                    "product": "b1dfab12-ef5b-4dc6-af49-e3fbafa636fe",
+                    "quantity": 20
+                },
+                {
+                    "product": "41c3ff8d-7533-4e5b-9488-6a805521017a",
+                    "quantity": 30
+                },
+                {
+                    "product": "55e2d1c5-77a2-434f-ae92-c5a318a04416",
+                    "quantity": 40
+                },
+                {
+                    "product": "d04adf24-7ef9-4885-8ea1-fa4fda2dc122",
+                    "quantity": 40
+                },
+                {
+                    "product": "a4d739b8-c435-453b-9cd5-45ac941bda0f",
+                    "quantity": 70
+                }
+           
+            ],
+            "additionalInstruction":""
+        },
+        {        
+            "id":"4e60a94b-8bc1-413b-b186-51151b14fa39",
+            "name":"Творог",
+            "description": "",
+            "type":"breakfast",
+            "imgUrl":"",
+            "products": [
+                {
+                    "product": "c927e96c-6d8e-49d8-9350-1509588d72e8",
+                    "quantity": 120
+                },
+                {
+                    "product": "cb26362e-f1a9-4a05-8f84-ea8c38e26bbe",
+                    "quantity": 30
+                },
+                {
+                    "product": "26340fb6-1cf6-469c-93d2-d03db05e4ac1",
+                    "quantity": 15
+                },
+                {
+                    "product": "ff5a45ce-f4ac-4d60-b7d4-931bf6686fff",
+                    "quantity": 15
+                },
+                {
+                    "product": "ec90cace-182c-4232-8f2b-b90f8d8cec83",
+                    "quantity": 0
+                },
+                {
+                    "product": "6497db8e-13d2-4169-982b-8b0499935661",
+                    "quantity": 10
+                }
+            ],
+            "additionalInstruction":""
+        },
+        {        
+            "id":"4e39d4ab-aabe-435c-950b-e46c6842b053",
+            "name":"котлети",
+            "description": "Гречка (сухої). ",
+            "type":"snack",
+            "imgUrl":"",
+            "products": [
+                {
+                    "product": "44b4d731-b9af-4aa8-b32e-94ab8af59c4e",
+                    "quantity": 40
+                },
+                {
+                    "product": "be1a3a43-0cf5-43d9-8af6-06cf89d27639",
+                    "quantity": 110
+                },
+                {
+                    "product": "8cae0cff-da16-45ad-9475-c90fed5ec1e7",
+                    "quantity": 300
+                },
+                {
+                    "product": "370e6c16-3b52-4fe4-9981-2a9a46f409c7",
+                    "quantity": 0
+                },
+                {
+                    "product": "3d861b93-e98f-4661-94d7-3b41984ee8db",
+                    "quantity": 0
+                },
+                {
+                    "product": "e41b1ef2-ab31-430b-80e1-4037cda8735f",
+                    "quantity": 0
+                },
+                {
+                    "product": "80281a56-8940-4208-9127-cfb49b14ebbd",
+                    "quantity": 60
+                },
+                {
+                    "product": "d51035d9-2869-43cb-b8f1-000c33fc0e74",
+                    "quantity": 0
+                },
+                {
+                    "product": "5699d9e5-48fa-4abf-bb5f-c6386aab6845",
+                    "quantity": 10
+                },
+                {
+                    "product": "8baa6019-c776-4832-a20b-7df011249e96",
+                    "quantity": 120
+                }
+            ],
+            "additionalInstruction":" все перемішати, жарити на кокос/вершковому маслі"
+        }
+
+    ]
+}
